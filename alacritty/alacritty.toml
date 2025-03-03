@@ -1,0 +1,34 @@
+general.import = [
+    "~/.config/alacritty/themes/themes/night_owl.toml"
+]
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+  padding.x = 3
+
+decorations = "Buttonless"
+
+
+opacity = 0.95
+# blur = true
+
+option_as_alt = "Both"
+
+
+[font.bold]
+family = "GeistMono Nerd Font Mono"
+style = "Bold"
+
+[font.bold_italic]
+family = "GeistMono Nerd Font Mono"
+style = "Bold Italic"
+
+[font.italic]
+family = "GeistMono Nerd Font Mono"
+style = "Italic"
+
+[font.normal]
+family = "GeistMono Nerd Font Mono"
+style = "Regular" 
