@@ -1,8 +1,9 @@
 #xterm -e tmux
 if [ -z "$TMUX" ]
 then
-     tmux attach -t TMUX || tmux new -s TMUX
-    # tmux new -s TMUX
+     # tmux attach -t TMUX || tmux new -s TMUX
+     # tmux new -s TMUX
+     tmux
 fi
 
 if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
@@ -175,3 +176,6 @@ export EDITOR="nvim"
 source ~/fzf-git.sh/fzf-git.sh
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+
+# To customize prompt, run `p10k configure` or edit ~/.config/zsh/.p10k.zsh.
+[[ ! -f ~/.config/zsh/.p10k.zsh ]] || source ~/.config/zsh/.p10k.zsh
