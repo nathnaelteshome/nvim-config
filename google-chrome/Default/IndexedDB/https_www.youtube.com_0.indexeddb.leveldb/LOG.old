@@ -1,27 +1,6 @@
-2025/03/08-22:31:26.299 1135f Reusing MANIFEST /home/nathnael/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/03/08-22:31:26.299 1135f Recovering log #170
-2025/03/08-22:31:26.299 1135f Reusing old log /home/nathnael/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000170.log 
-2025/03/08-22:31:27.392 1135e Compacting 1@1 + 1@2 files
-2025/03/08-22:31:27.407 1135e Generated table #173@1: 439 keys, 50971 bytes
-2025/03/08-22:31:27.408 1135e Compacted 1@1 + 1@2 files => 50971 bytes
-2025/03/08-22:31:27.434 1135e compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/03/08-22:31:27.434 1135e Delete type=2 #171
-2025/03/08-22:31:27.434 1135e Delete type=2 #168
-2025/03/09-01:24:05.300 1135e Level-0 table #175: started
-2025/03/09-01:24:05.322 1135e Level-0 table #175: 1532292 bytes OK
-2025/03/09-01:24:05.338 1135e Delete type=0 #170
-2025/03/09-01:42:43.261 1135f Compacting 1@1 + 1@2 files
-2025/03/09-01:42:43.279 1135f Generated table #176@1: 527 keys, 138533 bytes
-2025/03/09-01:42:43.279 1135f Compacted 1@1 + 1@2 files => 138533 bytes
-2025/03/09-01:42:43.281 1135f compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/03/09-01:42:43.281 1135f Delete type=2 #175
-2025/03/09-01:42:43.281 1135f Delete type=2 #173
-2025/03/09-02:24:21.908 1135e Level-0 table #178: started
-2025/03/09-02:24:21.931 1135e Level-0 table #178: 1282419 bytes OK
-2025/03/09-02:24:21.942 1135e Delete type=0 #174
-2025/03/09-02:25:54.834 1135e Compacting 1@1 + 1@2 files
-2025/03/09-02:25:54.849 1135e Generated table #179@1: 442 keys, 63797 bytes
-2025/03/09-02:25:54.849 1135e Compacted 1@1 + 1@2 files => 63797 bytes
-2025/03/09-02:25:54.861 1135e compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/03/09-02:25:54.861 1135e Delete type=2 #178
-2025/03/09-02:25:54.861 1135e Delete type=2 #176
+2025/03/09-12:01:17.019 453b Reusing MANIFEST /home/nathnael/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/09-12:01:17.019 453b Recovering log #177
+2025/03/09-12:01:17.027 453b Reusing old log /home/nathnael/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000177.log 
+2025/03/09-12:01:21.360 451a Level-0 table #182: started
+2025/03/09-12:01:21.372 451a Level-0 table #182: 1520153 bytes OK
+2025/03/09-12:01:21.376 451a Delete type=0 #177

@@ -1,3 +1,9 @@
-2025/03/09-11:27:34.522 816 Reusing MANIFEST /home/nathnael/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/03/09-11:27:34.522 816 Recovering log #177
-2025/03/09-11:27:34.526 816 Reusing old log /home/nathnael/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000177.log 
+2025/03/09-12:03:02.908 598f Reusing MANIFEST /home/nathnael/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/09-12:03:02.908 598f Recovering log #181
+2025/03/09-12:03:02.909 598f Reusing old log /home/nathnael/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000181.log 
+2025/03/09-12:03:07.145 598e Compacting 1@1 + 1@2 files
+2025/03/09-12:03:07.159 598e Generated table #184@1: 444 keys, 60545 bytes
+2025/03/09-12:03:07.159 598e Compacted 1@1 + 1@2 files => 60545 bytes
+2025/03/09-12:03:07.170 598e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/09-12:03:07.170 598e Delete type=2 #182
+2025/03/09-12:03:07.170 598e Delete type=2 #179
