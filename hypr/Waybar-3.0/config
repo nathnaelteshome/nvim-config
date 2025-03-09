@@ -1,7 +1,6 @@
 { 
   "layer": "top",
   "height": 35,
-  "margin-top": 10,
   "margin-left": 10,
   "margin-bottom": 0,
   "margin-right": 10,
@@ -44,6 +43,9 @@
         "Playing": "<span foreground='#46c880'>  </span>",
         "Paused": "<span foreground='#cdd6f4'> 󰏥 </span>",
       },
+    },
+    "layer": {
+      "toggle": "SIGUSR1"
     },
     "custom/uptime": {
     "format": " {}",
