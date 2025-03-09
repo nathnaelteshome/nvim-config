@@ -69,7 +69,7 @@ bindkey '^[[A' history-search-backward
 bindkey '^[[B' history-search-forward
 
 # ---- Eza (better ls) -----
-alias ls="eza --color=always --git --no-filesize --icons=always --no-time --no-user --no-permissions"
+alias ls="eza --color=always --git --no-filesize --icons=always --no-time --no-user --no-permissions -x"
 
 # --- setup fzf theme ---
 fg="#CBE0F0"
