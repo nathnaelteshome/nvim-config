@@ -1,0 +1,9 @@
+2025/03/08-22:30:47.949 1139a Reusing MANIFEST /home/nathnael/.config/google-chrome/Default/shared_proto_db/MANIFEST-000001
+2025/03/08-22:30:47.950 1139a Recovering log #12
+2025/03/08-22:30:47.950 1139a Reusing old log /home/nathnael/.config/google-chrome/Default/shared_proto_db/000012.log 
+2025/03/09-01:22:27.416 1135d Compacting 1@1 + 1@2 files
+2025/03/09-01:22:27.427 1135d Generated table #15@1: 528 keys, 20467 bytes
+2025/03/09-01:22:27.427 1135d Compacted 1@1 + 1@2 files => 20467 bytes
+2025/03/09-01:22:27.429 1135d compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/09-01:22:27.430 1135d Delete type=2 #13
+2025/03/09-01:22:27.430 1135d Delete type=2 #10

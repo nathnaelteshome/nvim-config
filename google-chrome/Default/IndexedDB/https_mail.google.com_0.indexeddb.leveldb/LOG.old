@@ -1,0 +1,12 @@
+2025/03/06-22:18:50.395 150c Reusing MANIFEST /home/nathnael/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/06-22:18:50.395 150c Recovering log #7
+2025/03/06-22:18:50.397 150c Reusing old log /home/nathnael/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000007.log 
+2025/03/06-22:18:57.800 150b Compacting 1@1 + 1@2 files
+2025/03/06-22:18:57.810 150b Generated table #10@1: 191 keys, 571642 bytes
+2025/03/06-22:18:57.810 150b Compacted 1@1 + 1@2 files => 571642 bytes
+2025/03/06-22:18:57.812 150b compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/06-22:18:57.812 150b Delete type=2 #8
+2025/03/06-22:18:57.812 150b Delete type=2 #5
+2025/03/06-22:20:48.685 150b Level-0 table #12: started
+2025/03/06-22:20:48.703 150b Level-0 table #12: 3077698 bytes OK
+2025/03/06-22:20:48.706 150b Delete type=0 #7

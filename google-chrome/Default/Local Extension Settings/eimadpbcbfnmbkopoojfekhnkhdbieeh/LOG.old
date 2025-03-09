@@ -1,0 +1,15 @@
+2025/03/08-22:30:48.097 1135d Reusing MANIFEST /home/nathnael/.config/google-chrome/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/MANIFEST-000001
+2025/03/08-22:30:48.098 1135d Recovering log #66
+2025/03/08-22:30:48.101 1135d Reusing old log /home/nathnael/.config/google-chrome/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/000066.log 
+2025/03/09-02:24:18.780 1135e Level-0 table #70: started
+2025/03/09-02:24:18.803 1135e Level-0 table #70: 1952317 bytes OK
+2025/03/09-02:24:18.810 1135e Delete type=0 #66
+2025/03/09-02:24:18.812 1135e Compacting 4@0 + 1@1 files
+2025/03/09-02:24:18.825 1135e Generated table #71@0: 4 keys, 10572 bytes
+2025/03/09-02:24:18.825 1135e Compacted 4@0 + 1@1 files => 10572 bytes
+2025/03/09-02:24:18.827 1135e compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/09-02:24:18.827 1135e Delete type=2 #60
+2025/03/09-02:24:18.827 1135e Delete type=2 #67
+2025/03/09-02:24:18.827 1135e Delete type=2 #63
+2025/03/09-02:24:18.827 1135e Delete type=2 #65
+2025/03/09-02:24:18.827 1135e Delete type=2 #70

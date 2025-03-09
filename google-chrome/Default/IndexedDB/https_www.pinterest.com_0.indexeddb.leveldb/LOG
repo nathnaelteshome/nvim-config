@@ -1,0 +1,5 @@
+2025/03/05-16:04:19.054 27bcf Creating DB /home/nathnael/.config/google-chrome/Default/IndexedDB/https_www.pinterest.com_0.indexeddb.leveldb since it was missing.
+2025/03/05-16:04:19.058 27bcf Reusing MANIFEST /home/nathnael/.config/google-chrome/Default/IndexedDB/https_www.pinterest.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/05-16:17:45.465 27bd1 Level-0 table #5: started
+2025/03/05-16:17:45.499 27bd1 Level-0 table #5: 1751793 bytes OK
+2025/03/05-16:17:45.502 27bd1 Delete type=0 #3

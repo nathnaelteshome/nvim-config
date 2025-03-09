@@ -1,0 +1,10 @@
+2025/03/01-19:15:26.223 fac Creating DB /home/nathnael/.config/google-chrome/Default/IndexedDB/https_hianime.to_0.indexeddb.leveldb since it was missing.
+2025/03/01-19:15:26.235 fac Reusing MANIFEST /home/nathnael/.config/google-chrome/Default/IndexedDB/https_hianime.to_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/01-19:15:36.703 fac Level-0 table #5: started
+2025/03/01-19:15:36.704 fab Current memtable full; waiting...
+2025/03/01-19:15:36.719 fac Level-0 table #5: 1159454 bytes OK
+2025/03/01-19:15:36.721 fac Delete type=0 #3
+2025/03/01-19:15:36.722 fac Level-0 table #7: started
+2025/03/01-19:15:36.723 fac Level-0 table #7: 190 bytes OK
+2025/03/01-19:15:36.725 fac Delete type=0 #4
+2025/03/01-19:15:36.725 fac Manual compaction at level-0 from (begin) .. (end); will stop at (end)

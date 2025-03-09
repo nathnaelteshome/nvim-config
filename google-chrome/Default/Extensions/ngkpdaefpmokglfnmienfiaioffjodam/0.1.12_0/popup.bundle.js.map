@@ -1,0 +1,1 @@
+{"version":3,"file":"popup.bundle.js","mappings":"AAAAA,OAAOC,KAAKC,OAAO,CAAC,IAAO","sources":["webpack://webtor.io/./src/js/popup.js"],"sourcesContent":["chrome.tabs.create({'url': 'https://webtor.io'});\n"],"names":["chrome","tabs","create"],"sourceRoot":""}

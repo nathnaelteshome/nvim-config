@@ -1,0 +1,710 @@
+{
+   "about_follow": {
+      "description": "",
+      "message": "Twitter에서 팔로우하기"
+   },
+   "about_like": {
+      "description": "",
+      "message": "\"Facebook 좋아요\""
+   },
+   "about_privacy": {
+      "description": "",
+      "message": "개인 정보 취급 방침"
+   },
+   "about_terms": {
+      "description": "",
+      "message": "이용 약관"
+   },
+   "account_activated": {
+      "description": "",
+      "message": "활성화됨"
+   },
+   "account_key": {
+      "description": "",
+      "message": "라이선스 키"
+   },
+   "account_na": {
+      "description": "",
+      "message": ""
+   },
+   "account_redeem": {
+      "description": "",
+      "message": "라이선스 입력"
+   },
+   "account_switch": {
+      "description": "",
+      "message": "계정 전환"
+   },
+   "account_type": {
+      "description": "",
+      "message": "계정 유형"
+   },
+   "account_upgrade": {
+      "description": "",
+      "message": "Premium로 업그레이드"
+   },
+   "account_username": {
+      "description": "",
+      "message": "사용자 이름"
+   },
+   "banner_create_account_btn": {
+      "description": "",
+      "message": ""
+   },
+   "banner_create_account_description": {
+      "description": "",
+      "message": ""
+   },
+   "banner_create_account_title": {
+      "description": "",
+      "message": ""
+   },
+   "banner_download_app_btn": {
+      "description": "",
+      "message": ""
+   },
+   "banner_download_app_description": {
+      "description": "",
+      "message": ""
+   },
+   "banner_download_app_title": {
+      "description": "",
+      "message": ""
+   },
+   "banner_premium_btn": {
+      "description": "",
+      "message": ""
+   },
+   "beta": {
+      "description": "",
+      "message": ""
+   },
+   "browser_settings_open": {
+      "description": "",
+      "message": "%BROWSER%에서 열기"
+   },
+   "browser_settings_title": {
+      "description": "",
+      "message": "브라우저 설정"
+   },
+   "buy_elite": {
+      "description": "",
+      "message": "Hotspot Shield Premium로 업그레이드"
+   },
+   "bypass_add": {
+      "description": "",
+      "message": "사이트 추가"
+   },
+   "bypass_of": {
+      "description": "",
+      "message": "/"
+   },
+   "bypass_showing": {
+      "description": "",
+      "message": "표시 중"
+   },
+   "bypass_title": {
+      "description": "",
+      "message": "우회 웹 사이트"
+   },
+   "configuration_title": {
+      "description": "",
+      "message": ""
+   },
+   "connection_bandwidth": {
+      "description": "",
+      "message": "대역폭"
+   },
+   "connection_button_connected": {
+      "description": "",
+      "message": "연결됨"
+   },
+   "connection_button_connecting": {
+      "description": "",
+      "message": "연결 중 ..."
+   },
+   "connection_button_disconnected": {
+      "description": "",
+      "message": "클릭하여 연결"
+   },
+   "connection_button_stop": {
+      "description": "",
+      "message": "중지"
+   },
+   "connection_speed": {
+      "description": "",
+      "message": "속도"
+   },
+   "elite": {
+      "description": "",
+      "message": ""
+   },
+   "fill": {
+      "description": "",
+      "message": "강조 표시된 필드 채우기"
+   },
+   "help_contact": {
+      "description": "",
+      "message": "고객 문의"
+   },
+   "help_icon_1": {
+      "description": "",
+      "message": "Hotspot Shield 보호가 꺼져 있습니다."
+   },
+   "help_icon_2": {
+      "description": "",
+      "message": "Hotspot Shield 보호가 켜져 있습니다."
+   },
+   "help_icon_3": {
+      "description": "",
+      "message": "이 도메인은 Hotspot Shield를 통해 자동으로 보안이 유지됩니다."
+   },
+   "help_icon_4": {
+      "description": "",
+      "message": "이 도메인은 Hotspot Shield가 우회합니다."
+   },
+   "help_icon_title": {
+      "description": "",
+      "message": "확장 프로그램 아이콘"
+   },
+   "help_manage": {
+      "description": "",
+      "message": "계정 및 장치 관리"
+   },
+   "help_open_button": {
+      "description": "",
+      "message": ""
+   },
+   "help_other": {
+      "description": "",
+      "message": "기타"
+   },
+   "help_payments": {
+      "description": "",
+      "message": "결제/가입"
+   },
+   "help_support": {
+      "description": "",
+      "message": "지원"
+   },
+   "help_tutorial": {
+      "description": "",
+      "message": "자습서"
+   },
+   "label_createpassword": {
+      "description": "",
+      "message": "암호 입력"
+   },
+   "label_email": {
+      "description": "",
+      "message": "전자 메일 주소"
+   },
+   "label_enterpassword": {
+      "description": "",
+      "message": "암호 입력"
+   },
+   "loading_powered": {
+      "description": "",
+      "message": "Made in California"
+   },
+   "location_auto_title": {
+      "description": "",
+      "message": "Hotspot Shield는 현재 사용 중인 연결에 최적화된 서버를 자동으로 선택합니다."
+   },
+   "location_elite_only": {
+      "description": "",
+      "message": "Premium 가입자에게 해당하는 위치입니다."
+   },
+   "location_optimal_title": {
+      "description": "",
+      "message": "자동 서버"
+   },
+   "location_show_all": {
+      "description": "",
+      "message": "모두 표시"
+   },
+   "location_show_less": {
+      "description": "",
+      "message": "간단히 표시"
+   },
+   "location_title": {
+      "description": "",
+      "message": "서버"
+   },
+   "main_bypass_tooltip": {
+      "description": "",
+      "message": "제품이 켜져 있을 때 Hotspot Shield 보안을 우회하려는 웹 사이트를 추가합니다."
+   },
+   "main_secured_tooltip": {
+      "description": "",
+      "message": "Hotspot Shield가 꺼져 있을 때 보안을 유지하려는 웹 사이트를 추가합니다."
+   },
+   "map_optimal": {
+      "description": "",
+      "message": ""
+   },
+   "map_title": {
+      "description": "",
+      "message": "탐색 위치"
+   },
+   "menu_about": {
+      "description": "",
+      "message": "Hotspot Shield 정보"
+   },
+   "menu_account": {
+      "description": "",
+      "message": "내 계정"
+   },
+   "menu_chrome": {
+      "description": "",
+      "message": "%BROWSER% 확장 프로그램"
+   },
+   "menu_help": {
+      "description": "",
+      "message": "도움말"
+   },
+   "menu_rateus": {
+      "description": "",
+      "message": "점수 매기기"
+   },
+   "menu_settings": {
+      "description": "",
+      "message": "설정"
+   },
+   "menu_share": {
+      "description": "",
+      "message": "이 앱 공유"
+   },
+   "menu_upgrade": {
+      "description": "",
+      "message": "Premium로 업그레이드"
+   },
+   "modes_adblock": {
+      "description": "",
+      "message": "광고가 차단됨"
+   },
+   "modes_cookies": {
+      "description": "",
+      "message": "쿠키 차단 프로그램"
+   },
+   "modes_install": {
+      "description": "",
+      "message": ""
+   },
+   "modes_malware": {
+      "description": "",
+      "message": "맬웨어 차단 프로그램"
+   },
+   "modes_notifications": {
+      "description": "",
+      "message": "알림"
+   },
+   "modes_proxyLocal": {
+      "description": "",
+      "message": ""
+   },
+   "modes_sword": {
+      "description": "",
+      "message": ""
+   },
+   "modes_title": {
+      "description": "",
+      "message": "연결 모드"
+   },
+   "modes_tooltips_adBlock": {
+      "description": "",
+      "message": "Hotspot Shield 세션 도중 %BROWSER% 브라우저에서 광고 차단을 활성화 또는 비활성화합니다."
+   },
+   "modes_tooltips_cookie": {
+      "description": "",
+      "message": "Hotspot Shield 세션 도중 웹 쿠키를 활성화 또는 비활성화합니다."
+   },
+   "modes_tooltips_malware": {
+      "description": "",
+      "message": ""
+   },
+   "modes_tooltips_proxyLocal": {
+      "description": "",
+      "message": ""
+   },
+   "modes_tooltips_settings": {
+      "description": "",
+      "message": "여기서 보안 및 우회 사이트를 추가하고 관리하세요."
+   },
+   "modes_tooltips_sword": {
+      "description": "",
+      "message": ""
+   },
+   "modes_tooltips_tracker": {
+      "description": "",
+      "message": "Hotspot Shield 세션 도중 분석 추적자(예= Google)를 활성화 또는 비활성화합니다."
+   },
+   "modes_tooltips_webRTC": {
+      "description": "",
+      "message": ""
+   },
+   "modes_tracker": {
+      "description": "",
+      "message": "추적자가 차단됨"
+   },
+   "modes_webRTC": {
+      "description": "",
+      "message": ""
+   },
+   "name": {
+      "description": "",
+      "message": "Hotspot Shield"
+   },
+   "password6": {
+      "description": "",
+      "message": "암호는 6자 이상이어야 함"
+   },
+   "policy": {
+      "description": "",
+      "message": "개인 정보 취급 방침"
+   },
+   "powered": {
+      "description": "",
+      "message": "Aura 제작 지원"
+   },
+   "rate_us_rate_text": {
+      "description": "",
+      "message": "별을 클릭해 평가해 주세요"
+   },
+   "rate_us_rate_title": {
+      "description": "",
+      "message": ""
+   },
+   "rate_us_redirect_1": {
+      "description": "",
+      "message": "멋지세요!\\n잠시 시간을 내어 %BROWSER% Web Store에서 별 5개의 평점을 주시면 감사하겠습니다."
+   },
+   "rate_us_redirect_2": {
+      "description": "",
+      "message": "잠시 후 리디렉션됩니다."
+   },
+   "rate_us_thank_you": {
+      "description": "",
+      "message": "감사합니다!"
+   },
+   "reserved": {
+      "description": "",
+      "message": ""
+   },
+   "restore": {
+      "description": "",
+      "message": ""
+   },
+   "restore_forgot": {
+      "description": "",
+      "message": "암호를 잊으셨나요?"
+   },
+   "secured_websites_add": {
+      "description": "",
+      "message": "사이트 추가"
+   },
+   "secured_websites_of": {
+      "description": "",
+      "message": "/"
+   },
+   "secured_websites_showing": {
+      "description": "",
+      "message": "표시 중"
+   },
+   "secured_websites_title": {
+      "description": "",
+      "message": "자동 보호"
+   },
+   "see_all": {
+      "description": "",
+      "message": "모두 표시"
+   },
+   "settings_add_description": {
+      "description": "",
+      "message": ""
+   },
+   "settings_add_eg": {
+      "description": "",
+      "message": ""
+   },
+   "settings_add_title": {
+      "description": "",
+      "message": "웹 사이트 추가"
+   },
+   "settings_language": {
+      "description": "",
+      "message": "언어"
+   },
+   "settings_notifications": {
+      "description": "",
+      "message": "알림"
+   },
+   "sign_in": {
+      "description": "",
+      "message": "로그인"
+   },
+   "sign_up": {
+      "description": "",
+      "message": "등록"
+   },
+   "signin_noaccount": {
+      "description": "",
+      "message": "계정이 없습니까?"
+   },
+   "signup_description": {
+      "description": "",
+      "message": "등록을 클릭하면 Hotspot Shield의 약관에 동의하는 것입니다."
+   },
+   "signup_description_and": {
+      "description": "",
+      "message": "및"
+   },
+   "signup_have_an_account": {
+      "description": "",
+      "message": "이미 계정이 있음"
+   },
+   "statistic_ads": {
+      "description": "",
+      "message": "광고"
+   },
+   "statistic_cookies": {
+      "description": "",
+      "message": "쿠키"
+   },
+   "statistic_malware": {
+      "description": "",
+      "message": "맬웨어"
+   },
+   "statistic_title": {
+      "description": "",
+      "message": "차단된 위협"
+   },
+   "statistic_trackers": {
+      "description": "",
+      "message": "추적자"
+   },
+   "survey_button": {
+      "description": "",
+      "message": ""
+   },
+   "survey_description": {
+      "description": "",
+      "message": ""
+   },
+   "survey_title": {
+      "description": "",
+      "message": ""
+   },
+   "sword_add": {
+      "description": "",
+      "message": ""
+   },
+   "sword_title": {
+      "description": "",
+      "message": ""
+   },
+   "sword_tooltip": {
+      "description": "",
+      "message": ""
+   },
+   "terms_agree_by_using": {
+      "description": "",
+      "message": ""
+   },
+   "tooltip_done": {
+      "description": "",
+      "message": "완료"
+   },
+   "tooltip_next": {
+      "description": "",
+      "message": "다음"
+   },
+   "tooltip_previous": {
+      "description": "",
+      "message": "이전"
+   },
+   "tooltip_text_1_1": {
+      "description": "",
+      "message": "메뉴"
+   },
+   "tooltip_text_1_2": {
+      "description": "",
+      "message": "구성"
+   },
+   "tooltip_text_1_3": {
+      "description": "",
+      "message": "클릭하여 Hotspot Shield에 연결"
+   },
+   "tooltip_text_2_1": {
+      "description": "",
+      "message": "현재 세션 지속 시간 카운터"
+   },
+   "tooltip_text_2_2": {
+      "description": "",
+      "message": "클릭하여 연결 중지"
+   },
+   "tooltip_text_2_3": {
+      "description": "",
+      "message": "지난 24시간 동안 사용한 데이터"
+   },
+   "tooltip_text_2_4": {
+      "description": "",
+      "message": "현재 연결된 서버에 대한 속도"
+   },
+   "tooltip_text_2_5": {
+      "description": "",
+      "message": "세션 도중 차단된 위협"
+   },
+   "tooltip_text_2_6": {
+      "description": "",
+      "message": "연결할 가상 위치 선택"
+   },
+   "tooltip_text_3_1": {
+      "description": "",
+      "message": "현재 연결된 서버"
+   },
+   "tooltip_text_3_2": {
+      "description": "",
+      "message": "차단이 해제된 사이트 수"
+   },
+   "tooltip_text_3_3": {
+      "description": "",
+      "message": "이러한 사이트에서 확장 프로그램 켜기"
+   },
+   "tooltip_text_3_4": {
+      "description": "",
+      "message": "켜져 있으면 확장 프로그램 우회"
+   },
+   "tooltip_text_4_1": {
+      "description": "",
+      "message": "기본 가상 위치 선택"
+   },
+   "tooltip_text_4_2": {
+      "description": "",
+      "message": "방문하는 사이트의 광고 차단"
+   },
+   "tooltip_text_4_3": {
+      "description": "",
+      "message": "온라인 추적 차단"
+   },
+   "tooltip_text_4_4": {
+      "description": "",
+      "message": "타사 쿠키 차단"
+   },
+   "tooltip_text_4_5": {
+      "description": "",
+      "message": "보안/우회 사이트 광고 및 관리"
+   },
+   "tooltip_title_1": {
+      "description": "",
+      "message": "홈 페이지"
+   },
+   "tooltip_title_2": {
+      "description": "",
+      "message": "대시보드"
+   },
+   "tooltip_title_3": {
+      "description": "",
+      "message": "대시보드"
+   },
+   "tooltip_title_4": {
+      "description": "",
+      "message": "구성"
+   },
+   "tos": {
+      "description": "",
+      "message": "이용 약관"
+   },
+   "trial_onetime": {
+      "description": "",
+      "message": "1회성 기회"
+   },
+   "trial_row_1": {
+      "description": "",
+      "message": "다중 장치 지원"
+   },
+   "trial_row_2": {
+      "description": "",
+      "message": "프리미엄 서버 위치"
+   },
+   "trial_row_3": {
+      "description": "",
+      "message": "무제한 데이터 대역폭"
+   },
+   "trial_row_4": {
+      "description": "",
+      "message": "전용 고객 지원"
+   },
+   "trial_row_5": {
+      "description": "",
+      "message": "광고 없는 브라우징 경험"
+   },
+   "trial_thanks": {
+      "description": "",
+      "message": "아니요. 무료로 계속 사용하겠습니다."
+   },
+   "trial_title": {
+      "description": "",
+      "message": "Hotspot Shield Premium 사용자가 되어 더 많은 혜택을 누리세요."
+   },
+   "trial_upgrade": {
+      "description": "",
+      "message": ""
+   },
+   "unavaliable_description": {
+      "description": "",
+      "message": "단추를 클릭하여 프록시 설정을 제어하는 다른 확장 프로그램(예= 광고 차단 프로그램, 다른 VPN 서비스 등)을 비활성화하세요."
+   },
+   "unavaliable_disable": {
+      "description": "",
+      "message": ""
+   },
+   "unavaliable_title": {
+      "description": "",
+      "message": "사용자의 프록시 설정을 제어하는 다른 %BROWSER% 확장 프로그램으로 인해 Hotspot Shield가 중단되고 있습니다."
+   },
+   "unblocked_title": {
+      "description": "",
+      "message": "사이트 차단이 해제됨"
+   },
+   "version": {
+      "description": "",
+      "message": "버전"
+   },
+   "wait": {
+      "description": "",
+      "message": "잠시 기다려 주세요."
+   },
+   "welcome_row_1": {
+      "description": "",
+      "message": "Hotspot Shield Premium 사용자가 되어 더 많은 혜택을 누리세요."
+   },
+   "welcome_row_2": {
+      "description": "",
+      "message": "다중 장치 지원"
+   },
+   "welcome_row_3": {
+      "description": "",
+      "message": "프리미엄 서버 위치"
+   },
+   "welcome_row_4": {
+      "description": "",
+      "message": "무제한 데이터 대역폭"
+   },
+   "welcome_row_5": {
+      "description": "",
+      "message": "전용 고객 지원"
+   },
+   "welcome_row_6": {
+      "description": "",
+      "message": "광고 없는 브라우징 경험"
+   },
+   "welcome_row_7": {
+      "description": "",
+      "message": "또는 Hotspot Shield 다운로드"
+   },
+   "welcome_title": {
+      "description": "",
+      "message": "Hotspot Shield를 설치해 주셔서 감사합니다!"
+   }
+}

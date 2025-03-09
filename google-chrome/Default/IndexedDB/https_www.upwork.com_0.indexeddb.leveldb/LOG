@@ -1,0 +1,13 @@
+2025/03/08-21:00:44.726 632b Reusing MANIFEST /home/nathnael/.config/google-chrome/Default/IndexedDB/https_www.upwork.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/08-21:00:44.726 632b Recovering log #91
+2025/03/08-21:00:44.726 632b Reusing old log /home/nathnael/.config/google-chrome/Default/IndexedDB/https_www.upwork.com_0.indexeddb.leveldb/000091.log 
+2025/03/08-21:01:06.191 632d Level-0 table #95: started
+2025/03/08-21:01:06.193 632d Level-0 table #95: 535 bytes OK
+2025/03/08-21:01:06.196 632d Delete type=0 #91
+2025/03/08-21:01:06.196 632c Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at '\x00\x18\x00\x00\x05' @ 446 : 1
+2025/03/08-21:01:06.196 632c Compacting 1@0 + 1@1 files
+2025/03/08-21:01:06.198 632c Generated table #96@0: 4 keys, 239 bytes
+2025/03/08-21:01:06.198 632c Compacted 1@0 + 1@1 files => 239 bytes
+2025/03/08-21:01:06.200 632c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/08-21:01:06.200 632c Delete type=2 #95
+2025/03/08-21:01:06.200 632c Manual compaction at level-0 from '\x00\x18\x00\x00\x05' @ 446 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)

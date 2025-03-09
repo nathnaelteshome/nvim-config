@@ -1,0 +1,81 @@
+{
+   "checksum": "578dadeb544a59421fc9097e8a00bca7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13367185557841188",
+            "date_last_used": "13367185569943679",
+            "guid": "b457e801-d052-4d7b-95ea-3fec52fda8e3",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Copy of Copy of 2024 Interns Learning Path Final - Google Sheets",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1_4IU1BmhRhnGzteoG6J9UDJVJfmK2aDwBmYgcRkmI8U/edit?gid=974650064#gid=974650064"
+         }, {
+            "date_added": "13355767917536584",
+            "date_last_used": "0",
+            "guid": "faaeae21-a7cc-4bd3-a527-56020501466c",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "005 Creating The Domain Project.mp4 - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/19ufDUz7nESVfu-2LdFYnvgO044wesfvG/view"
+         }, {
+            "date_added": "13369763908773924",
+            "date_last_used": "0",
+            "guid": "d03914b1-d361-4c53-aa64-3215c865c969",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "RideShare Api Documentation - Google Docs",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1ukDTE45EhB9SLEZyhQBMrGUAADszlm4jwneog9j6aYs/edit"
+         } ],
+         "date_added": "13385125026256569",
+         "date_last_used": "0",
+         "date_modified": "13369763908773924",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13385824218120832",
+            "date_last_used": "0",
+            "guid": "f1916c90-9c9c-4fee-9a30-c21d0dda0a5d",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "RateEat Meeting Notes 3.0 - Google Docs",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1vLAGS5WchOgUjRX-FtMOYM0ww9hkK5xG-xVO-U9FUyY/edit?pli=1&tab=t.yzjnmxz5bocn"
+         } ],
+         "date_added": "13385125026256570",
+         "date_last_used": "0",
+         "date_modified": "13385824218120832",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13385125026256571",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CmEKQQiIgQISOyAAkgE2CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCd1xe6i/LwYAEd1xe6i/LwYAKcOpe6i/LwYAEgAqGGQ0YmNMcEJHSU1SWTBINWcxQW9ObkE9PUgDEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaeS9JRk1zdVMzZ0xoMlpmZ2FPUk1RVVJqZk1wUktLdEVjZm1zQjJDM3daOEpKRVhYNnRTcEhrYjd5QWp0dkQvS3hzWTJwWhgAIAAoADCN/pybjKKJAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaeHBNZXVsc1NEVE91SENJNDhJbzllb1h5TFZPejhtTFpTdk9HQzNnNXplWVArRURIS0VBNFRBYXhYVGIySGhqZzdjbkRNQVdxc1JTcnBLYU9pQ0VVVloyVWhidFE9PRgAIAAoADCN/pybjKKJAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEuwBCAYS5wEKHEY0WjBubG1NRUZuaURHTWxyK1g1ak0xZTNvWT0SZlo6QURxdEFaeThCZzU5ZGVrMFJTK1UzdTR6eTFsYldjM2lMN2tEaWg2bXN0SStWNExCSUVvNGJld3hWSEovdU80dGFTZ295Qko0YkxJMmFZZzlDNmRpajJmOHhFLzk2cG1xdGc9PRgAIAAoADDboIWQnI2FAzjih9yI5zFA4ofciOcxShxtTm56Qy9XNlBHOWRYL3lRTVRQdEdUY0E2SlU9Wh8iHdtETkxWQllWVXFETW5WaDB5UVlVQm8zd1hrckE9ZboKLFES7AEIBxLnAQocQnlGQXgvb29ka0oxMHRmbU9ScUlTZkxIZ2cwPRJmWjpBRHF0QVp5OEJnNTlkZWswUlMrVTN1NHp5MWxiRmE3dU8weVduTWJUekg5eEc0ajZkMmtTa2RDZS8xQ3I5ZkRBMU13R2JrUitocVBmaFNCd0RsUGphUmF3UkttK0hxTW1qUT09GAAgACgAMJPS9J/HpIgDOKbJw5qbMkCmycOamzJKHDMybDhHMnIwSkZ1QlNKRzc0bnJ4MnN4ZjNoTT1aHyId7XkrN0pUam0rTUp4ck4rY3hJU0w5YVZIOEZIVT1lOca2sBLrAQgJEuYBChxTV1FuV3pBRGRYZ000bktaOXZRdTF1STlsenM9EmZaOkFEcXRBWnk4Qmc1OWRlazBSUytVM3U0enkxbGJHekxxZzZZeWhWbi9hU0JSWm9qRzZLMi9mdTh4UTZYRGpiU2J4Y3A0RW5nRWRIM2VvSyt6eGIyeUU2NlZvRnhxVXRTdU93PT0YACACKAIw58ujyfz3iwM4iYjXhNcyQIuI14TXMkocR1lJMk1YK3poQU9wQkJNdTZwd1FOU3NySVg0PVoeIhxrMTRmM3p5aDYwRnFMK2IreDYvaDJVZlVMenc9ZTnGtrAS6wEIBRLmAQocbE5IUE1iVFM0OG5LWk9UOU9pL0t2cVljK0VZPRJmWjpBRHF0QVp5OEJnNTlkZWswUlMrVTN1NHp5MWxia2IxamVCQ0VUeTRwVXcwakk4SzVWSjlqYkE2bnlacEF5b0pwMSs3bVVlMVIxNUFXWDdkRk5tVXFOVHBVZFQ2elR3eWtJQT09GAAgACgAMMW15ZfC2YcDONHCic2RMkDRwonNkTJKHFpPYkpOZ3haVmsrZVNaRmRoa1Q3RHFZTmRmMD1aHiIcNC9GcmJ6NGF6R0hrc2ZRQnVkK3AybEZQeU13PWW+K+5HEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaejZ4Z0JISi9hMXpHUjNQQ0VHbm1OZ0pYd3BmM3ZnU2xESjZhTUJUR2dFRUxXTFgwZGFNNVZPM1VxRS8yakRtUmgwVkMySlowQUhhbEk4YzlQbW1NS2J4dy9MVGc9PRgAIAAoADCN/pybjKKJAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAMAE4AA==",
+   "version": 1
+}

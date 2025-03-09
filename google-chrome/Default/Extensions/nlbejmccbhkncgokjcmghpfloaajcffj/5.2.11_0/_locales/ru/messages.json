@@ -1,0 +1,710 @@
+{
+   "about_follow": {
+      "description": "",
+      "message": "Подпишитесь на нас в Twitter"
+   },
+   "about_like": {
+      "description": "",
+      "message": "Поставьте нам лайк в Facebook"
+   },
+   "about_privacy": {
+      "description": "",
+      "message": "Политика конфиденциальности"
+   },
+   "about_terms": {
+      "description": "",
+      "message": "Условия и положения"
+   },
+   "account_activated": {
+      "description": "",
+      "message": "Активировано"
+   },
+   "account_key": {
+      "description": "",
+      "message": "Лицензионный ключ"
+   },
+   "account_na": {
+      "description": "",
+      "message": "Бесплатное участие"
+   },
+   "account_redeem": {
+      "description": "",
+      "message": "Восстановить лицензию"
+   },
+   "account_switch": {
+      "description": "",
+      "message": "Сменить учетную запись"
+   },
+   "account_type": {
+      "description": "",
+      "message": "Тип учетной записи"
+   },
+   "account_upgrade": {
+      "description": "",
+      "message": "Обновить до версии Premium"
+   },
+   "account_username": {
+      "description": "",
+      "message": "Имя пользователя"
+   },
+   "banner_create_account_btn": {
+      "description": "",
+      "message": ""
+   },
+   "banner_create_account_description": {
+      "description": "",
+      "message": ""
+   },
+   "banner_create_account_title": {
+      "description": "",
+      "message": ""
+   },
+   "banner_download_app_btn": {
+      "description": "",
+      "message": ""
+   },
+   "banner_download_app_description": {
+      "description": "",
+      "message": ""
+   },
+   "banner_download_app_title": {
+      "description": "",
+      "message": ""
+   },
+   "banner_premium_btn": {
+      "description": "",
+      "message": ""
+   },
+   "beta": {
+      "description": "",
+      "message": "БЕТА"
+   },
+   "browser_settings_open": {
+      "description": "",
+      "message": "Открыть в %BROWSER%"
+   },
+   "browser_settings_title": {
+      "description": "",
+      "message": "Настройки браузера"
+   },
+   "buy_elite": {
+      "description": "",
+      "message": "Обновить Hotspot Shield до версии Premium"
+   },
+   "bypass_add": {
+      "description": "",
+      "message": "Добавить"
+   },
+   "bypass_of": {
+      "description": "",
+      "message": "для"
+   },
+   "bypass_showing": {
+      "description": "",
+      "message": "Отображение"
+   },
+   "bypass_title": {
+      "description": "",
+      "message": "Веб-сайты для обхода"
+   },
+   "configuration_title": {
+      "description": "",
+      "message": "Конфигурация"
+   },
+   "connection_bandwidth": {
+      "description": "",
+      "message": "Трафик"
+   },
+   "connection_button_connected": {
+      "description": "",
+      "message": "Подключено"
+   },
+   "connection_button_connecting": {
+      "description": "",
+      "message": "Подключение..."
+   },
+   "connection_button_disconnected": {
+      "description": "",
+      "message": "Щелкните, чтобы подключить"
+   },
+   "connection_button_stop": {
+      "description": "",
+      "message": "Выключить"
+   },
+   "connection_speed": {
+      "description": "",
+      "message": "Скорость"
+   },
+   "elite": {
+      "description": "",
+      "message": "Премиум"
+   },
+   "fill": {
+      "description": "",
+      "message": "Заполните выделенные поля"
+   },
+   "help_contact": {
+      "description": "",
+      "message": "Связаться с нами"
+   },
+   "help_icon_1": {
+      "description": "",
+      "message": "Защита Hotspot Shield выключена."
+   },
+   "help_icon_2": {
+      "description": "",
+      "message": "Защита Hotspot Shield включена."
+   },
+   "help_icon_3": {
+      "description": "",
+      "message": "Hotspot Shield автоматически защищает этот домен."
+   },
+   "help_icon_4": {
+      "description": "",
+      "message": "Hotspot Shield обходит ограничения этого домена."
+   },
+   "help_icon_title": {
+      "description": "",
+      "message": "Значок расширения"
+   },
+   "help_manage": {
+      "description": "",
+      "message": "Управление учетной записью"
+   },
+   "help_open_button": {
+      "description": "",
+      "message": ""
+   },
+   "help_other": {
+      "description": "",
+      "message": "Другое"
+   },
+   "help_payments": {
+      "description": "",
+      "message": "Оплата/Подписка"
+   },
+   "help_support": {
+      "description": "",
+      "message": "Поддержка"
+   },
+   "help_tutorial": {
+      "description": "",
+      "message": "Руководство"
+   },
+   "label_createpassword": {
+      "description": "",
+      "message": "Введите пароль"
+   },
+   "label_email": {
+      "description": "",
+      "message": "Адрес электронной почты"
+   },
+   "label_enterpassword": {
+      "description": "",
+      "message": "Введите пароль"
+   },
+   "loading_powered": {
+      "description": "",
+      "message": "Сделано в Калифорнии"
+   },
+   "location_auto_title": {
+      "description": "",
+      "message": "Hotspot Shield автоматически выбирает наилучший сервер для вашего подключения."
+   },
+   "location_elite_only": {
+      "description": "",
+      "message": "Местоположение доступно для пользователей с подпиской Premium."
+   },
+   "location_optimal_title": {
+      "description": "",
+      "message": "Автоматический сервер"
+   },
+   "location_show_all": {
+      "description": "",
+      "message": "Показать все"
+   },
+   "location_show_less": {
+      "description": "",
+      "message": "Показать меньше"
+   },
+   "location_title": {
+      "description": "",
+      "message": "Серверы"
+   },
+   "main_bypass_tooltip": {
+      "description": "",
+      "message": "Добавьте веб-сайты, для которых будет включен обход защиты Hotspot Shield когда продукт включен."
+   },
+   "main_secured_tooltip": {
+      "description": "",
+      "message": "Добавьте веб-сайты, которые следует обезопасить когда Hotspot Shield выключен."
+   },
+   "map_optimal": {
+      "description": "",
+      "message": ""
+   },
+   "map_title": {
+      "description": "",
+      "message": "Просмотр из"
+   },
+   "menu_about": {
+      "description": "",
+      "message": "О программе Hotspot Shield"
+   },
+   "menu_account": {
+      "description": "",
+      "message": "Моя учетная запись"
+   },
+   "menu_chrome": {
+      "description": "",
+      "message": "Расширение для %BROWSER%"
+   },
+   "menu_help": {
+      "description": "",
+      "message": "Помощь"
+   },
+   "menu_rateus": {
+      "description": "",
+      "message": "Оцените нас"
+   },
+   "menu_settings": {
+      "description": "",
+      "message": "Настройки"
+   },
+   "menu_share": {
+      "description": "",
+      "message": "Расскажите об этом приложении"
+   },
+   "menu_upgrade": {
+      "description": "",
+      "message": "Обновить до версии Premium"
+   },
+   "modes_adblock": {
+      "description": "",
+      "message": "Блокировщик рекламы"
+   },
+   "modes_cookies": {
+      "description": "",
+      "message": "Блокировщик файлов cookie"
+   },
+   "modes_install": {
+      "description": "",
+      "message": ""
+   },
+   "modes_malware": {
+      "description": "",
+      "message": "Блокировщик malware"
+   },
+   "modes_notifications": {
+      "description": "",
+      "message": "Уведомления"
+   },
+   "modes_proxyLocal": {
+      "description": "",
+      "message": ""
+   },
+   "modes_sword": {
+      "description": "",
+      "message": "Sword"
+   },
+   "modes_title": {
+      "description": "",
+      "message": "Режимы подключения"
+   },
+   "modes_tooltips_adBlock": {
+      "description": "",
+      "message": "Включение или отключение блокирования рекламы в браузере %BROWSER% во время сеанса Hotspot Shield."
+   },
+   "modes_tooltips_cookie": {
+      "description": "",
+      "message": "Включение или отключение использования файлов cookie веб-сайтов во время сеанса Hotspot Shield."
+   },
+   "modes_tooltips_malware": {
+      "description": "",
+      "message": "Включение или отключение блокирования malware в браузере %BROWSER% во время сеанса Hotspot Shield."
+   },
+   "modes_tooltips_proxyLocal": {
+      "description": "",
+      "message": "Обход локальных ресурсов. Например, веб-сайты, расположенные во внутренней сети localhost и т.д."
+   },
+   "modes_tooltips_settings": {
+      "description": "",
+      "message": "Добавьте здесь свои защищенные и заблокированные сайты и управляйте ими."
+   },
+   "modes_tooltips_sword": {
+      "description": "",
+      "message": ""
+   },
+   "modes_tooltips_tracker": {
+      "description": "",
+      "message": "Включение или отключение отслеживания аналитики (например Google) во время сеанса Hotspot Shield."
+   },
+   "modes_tooltips_webRTC": {
+      "description": "",
+      "message": ""
+   },
+   "modes_tracker": {
+      "description": "",
+      "message": "Блокировщик трекеров"
+   },
+   "modes_webRTC": {
+      "description": "",
+      "message": ""
+   },
+   "name": {
+      "description": "",
+      "message": "Hotspot Shield"
+   },
+   "password6": {
+      "description": "",
+      "message": "Пароль должен включать не менее 6 символов"
+   },
+   "policy": {
+      "description": "",
+      "message": "Политика конфиденциальности"
+   },
+   "powered": {
+      "description": "",
+      "message": "Создано Aura"
+   },
+   "rate_us_rate_text": {
+      "description": "",
+      "message": "Щелкните звездочки, чтобы оценить его."
+   },
+   "rate_us_rate_title": {
+      "description": "",
+      "message": ""
+   },
+   "rate_us_redirect_1": {
+      "description": "",
+      "message": "Вы чудо!\\nПожалуйста, найдите минутку, чтобы дать нам оценку 5 звездочек в интернет-магазине %BROWSER%."
+   },
+   "rate_us_redirect_2": {
+      "description": "",
+      "message": "Через мгновение вы будете перенаправлены..."
+   },
+   "rate_us_thank_you": {
+      "description": "",
+      "message": "Спасибо!"
+   },
+   "reserved": {
+      "description": "",
+      "message": ""
+   },
+   "restore": {
+      "description": "",
+      "message": "Отправить пароль"
+   },
+   "restore_forgot": {
+      "description": "",
+      "message": "Забыли пароль?"
+   },
+   "secured_websites_add": {
+      "description": "",
+      "message": "Добавить"
+   },
+   "secured_websites_of": {
+      "description": "",
+      "message": "для"
+   },
+   "secured_websites_showing": {
+      "description": "",
+      "message": "Отображение"
+   },
+   "secured_websites_title": {
+      "description": "",
+      "message": "Автоматическая защита"
+   },
+   "see_all": {
+      "description": "",
+      "message": "Просмотреть все"
+   },
+   "settings_add_description": {
+      "description": "",
+      "message": ""
+   },
+   "settings_add_eg": {
+      "description": "",
+      "message": ""
+   },
+   "settings_add_title": {
+      "description": "",
+      "message": "Добавить веб-сайт"
+   },
+   "settings_language": {
+      "description": "",
+      "message": "Язык"
+   },
+   "settings_notifications": {
+      "description": "",
+      "message": "Уведомления"
+   },
+   "sign_in": {
+      "description": "",
+      "message": "Войти"
+   },
+   "sign_up": {
+      "description": "",
+      "message": "Зарегистрироваться"
+   },
+   "signin_noaccount": {
+      "description": "",
+      "message": "У вас нет учетной записи?"
+   },
+   "signup_description": {
+      "description": "",
+      "message": "Нажимая кнопку \"Зарегистрироваться\" вы соглашаетесь с Hotspot Shield"
+   },
+   "signup_description_and": {
+      "description": "",
+      "message": "и"
+   },
+   "signup_have_an_account": {
+      "description": "",
+      "message": "Учетная запись уже есть"
+   },
+   "statistic_ads": {
+      "description": "",
+      "message": "Реклама"
+   },
+   "statistic_cookies": {
+      "description": "",
+      "message": "Файлы cookie"
+   },
+   "statistic_malware": {
+      "description": "",
+      "message": "Malware"
+   },
+   "statistic_title": {
+      "description": "",
+      "message": "Заблокированные угрозы"
+   },
+   "statistic_trackers": {
+      "description": "",
+      "message": "Трекеры"
+   },
+   "survey_button": {
+      "description": "",
+      "message": ""
+   },
+   "survey_description": {
+      "description": "",
+      "message": ""
+   },
+   "survey_title": {
+      "description": "",
+      "message": ""
+   },
+   "sword_add": {
+      "description": "",
+      "message": ""
+   },
+   "sword_title": {
+      "description": "",
+      "message": ""
+   },
+   "sword_tooltip": {
+      "description": "",
+      "message": ""
+   },
+   "terms_agree_by_using": {
+      "description": "",
+      "message": ""
+   },
+   "tooltip_done": {
+      "description": "",
+      "message": "Готово"
+   },
+   "tooltip_next": {
+      "description": "",
+      "message": "Далее"
+   },
+   "tooltip_previous": {
+      "description": "",
+      "message": "Назад"
+   },
+   "tooltip_text_1_1": {
+      "description": "",
+      "message": "Меню"
+   },
+   "tooltip_text_1_2": {
+      "description": "",
+      "message": "Конфигурация"
+   },
+   "tooltip_text_1_3": {
+      "description": "",
+      "message": "Щелкните чтобы подключиться к Hotspot Shield."
+   },
+   "tooltip_text_2_1": {
+      "description": "",
+      "message": "Продолжительность текущего сеанса"
+   },
+   "tooltip_text_2_2": {
+      "description": "",
+      "message": "Щелкните чтобы отключиться"
+   },
+   "tooltip_text_2_3": {
+      "description": "",
+      "message": "Данные за последние сутки"
+   },
+   "tooltip_text_2_4": {
+      "description": "",
+      "message": "Скорость подключения к серверу"
+   },
+   "tooltip_text_2_5": {
+      "description": "",
+      "message": "Заблокированные угрозы"
+   },
+   "tooltip_text_2_6": {
+      "description": "",
+      "message": "Ваше виртуальное местоположение"
+   },
+   "tooltip_text_3_1": {
+      "description": "",
+      "message": "Сервер подключенный в настоящий момент"
+   },
+   "tooltip_text_3_2": {
+      "description": "",
+      "message": "Количество разблокированных сайтов"
+   },
+   "tooltip_text_3_3": {
+      "description": "",
+      "message": "Включите расширение на этих сайтах"
+   },
+   "tooltip_text_3_4": {
+      "description": "",
+      "message": "Обход расширения когда оно включено"
+   },
+   "tooltip_text_4_1": {
+      "description": "",
+      "message": "Выбор локации для подключения"
+   },
+   "tooltip_text_4_2": {
+      "description": "",
+      "message": "Блокировать рекламу"
+   },
+   "tooltip_text_4_3": {
+      "description": "",
+      "message": "Блокировать трекеры"
+   },
+   "tooltip_text_4_4": {
+      "description": "",
+      "message": "Блокировать сторонние файлы cookie"
+   },
+   "tooltip_text_4_5": {
+      "description": "",
+      "message": "Добавьте защищенные сайты и сайты для обхода и управляйте ими"
+   },
+   "tooltip_title_1": {
+      "description": "",
+      "message": "Домашняя страница"
+   },
+   "tooltip_title_2": {
+      "description": "",
+      "message": "Информационная панель"
+   },
+   "tooltip_title_3": {
+      "description": "",
+      "message": "Информационная панель"
+   },
+   "tooltip_title_4": {
+      "description": "",
+      "message": "Конфигурация"
+   },
+   "tos": {
+      "description": "",
+      "message": "Условия и положения"
+   },
+   "trial_onetime": {
+      "description": "",
+      "message": "Единовременное предложение"
+   },
+   "trial_row_1": {
+      "description": "",
+      "message": "Поддержка нескольких устройств"
+   },
+   "trial_row_2": {
+      "description": "",
+      "message": "Местоположения премиум-серверов"
+   },
+   "trial_row_3": {
+      "description": "",
+      "message": "Неограниченный трафик"
+   },
+   "trial_row_4": {
+      "description": "",
+      "message": "Выделенный центр поддержки клиентов"
+   },
+   "trial_row_5": {
+      "description": "",
+      "message": "Просмотр сайтов без рекламы"
+   },
+   "trial_thanks": {
+      "description": "",
+      "message": "Нет, спасибо, продолжить в бесплатном режиме"
+   },
+   "trial_title": {
+      "description": "",
+      "message": "Получайте больше возможностей используя Hotspot Shield Premium"
+   },
+   "trial_upgrade": {
+      "description": "",
+      "message": ""
+   },
+   "unavaliable_description": {
+      "description": "",
+      "message": "Нажмите эту кнопку, чтобы отключить другие расширения (блокировщики рекламы другие VPN-сервисы и т. д.), которые управляют настройками вашего прокси."
+   },
+   "unavaliable_disable": {
+      "description": "",
+      "message": ""
+   },
+   "unavaliable_title": {
+      "description": "",
+      "message": "Работа Hotspot Shield прерывается другим расширением %BROWSER%, управляющим настройками вашего прокси."
+   },
+   "unblocked_title": {
+      "description": "",
+      "message": "Сайты разблокированы"
+   },
+   "version": {
+      "description": "",
+      "message": "Версия"
+   },
+   "wait": {
+      "description": "",
+      "message": "Подождите"
+   },
+   "welcome_row_1": {
+      "description": "",
+      "message": "Получайте больше возможностей используя Hotspot Shield Premium"
+   },
+   "welcome_row_2": {
+      "description": "",
+      "message": "Поддержка нескольких устройств"
+   },
+   "welcome_row_3": {
+      "description": "",
+      "message": "Местоположения премиум-серверов"
+   },
+   "welcome_row_4": {
+      "description": "",
+      "message": "Неограниченный трафик"
+   },
+   "welcome_row_5": {
+      "description": "",
+      "message": "Выделенный центр поддержки клиентов"
+   },
+   "welcome_row_6": {
+      "description": "",
+      "message": "Просмотр сайтов без рекламы"
+   },
+   "welcome_row_7": {
+      "description": "",
+      "message": "или скачайте Hotspot Shield для"
+   },
+   "welcome_title": {
+      "description": "",
+      "message": "Благодарим вас за установку Hotspot Shield!"
+   }
+}

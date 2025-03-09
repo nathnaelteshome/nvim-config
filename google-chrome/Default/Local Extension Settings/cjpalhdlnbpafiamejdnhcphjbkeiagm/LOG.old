@@ -1,0 +1,25 @@
+2025/03/08-23:36:02.563 1135d Reusing MANIFEST /home/nathnael/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2025/03/08-23:36:02.563 1135d Recovering log #215
+2025/03/08-23:36:02.564 1135d Reusing old log /home/nathnael/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000215.log 
+2025/03/08-23:36:43.574 1135d Level-0 table #219: started
+2025/03/08-23:36:43.597 1135d Level-0 table #219: 4302696 bytes OK
+2025/03/08-23:36:43.601 1135d Delete type=0 #215
+2025/03/08-23:36:43.603 1135d Compacting 4@0 + 3@1 files
+2025/03/08-23:36:43.620 1135d Generated table #220@0: 4 keys, 2320602 bytes
+2025/03/08-23:36:43.645 1135d Generated table #221@0: 7 keys, 2809833 bytes
+2025/03/08-23:36:43.664 1135d Generated table #222@0: 12 keys, 2050035 bytes
+2025/03/08-23:36:43.664 1135d Compacted 4@0 + 3@1 files => 7180470 bytes
+2025/03/08-23:36:43.666 1135d compacted to: files[ 0 3 5 0 0 0 0 ]
+2025/03/08-23:36:43.666 1135d Delete type=2 #211
+2025/03/08-23:36:43.666 1135d Delete type=2 #214
+2025/03/08-23:36:43.666 1135d Delete type=2 #216
+2025/03/08-23:36:43.666 1135d Delete type=2 #207
+2025/03/08-23:36:43.666 1135d Delete type=2 #208
+2025/03/08-23:36:43.666 1135d Delete type=2 #219
+2025/03/08-23:36:43.666 1135d Delete type=2 #209
+2025/03/08-23:37:42.148 1135f Level-0 table #224: started
+2025/03/08-23:37:42.172 1135f Level-0 table #224: 4234053 bytes OK
+2025/03/08-23:37:42.175 1135f Delete type=0 #218
+2025/03/08-23:37:45.752 1135f Level-0 table #226: started
+2025/03/08-23:37:45.805 1135f Level-0 table #226: 4831343 bytes OK
+2025/03/08-23:37:45.817 1135f Delete type=0 #223

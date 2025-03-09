@@ -1,0 +1,7 @@
+2025/03/08-23:35:00.025 1135f Reusing MANIFEST /home/nathnael/.config/google-chrome/Default/IndexedDB/https_www.livesports088.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/08-23:35:00.025 1135f Recovering log #3
+2025/03/08-23:35:00.025 1135f Reusing old log /home/nathnael/.config/google-chrome/Default/IndexedDB/https_www.livesports088.com_0.indexeddb.leveldb/000003.log 
+2025/03/08-23:35:40.311 1135d Level-0 table #5: started
+2025/03/08-23:35:40.313 1135d Level-0 table #5: 3935 bytes OK
+2025/03/08-23:35:40.315 1135d Delete type=0 #3
+2025/03/08-23:35:40.316 1135d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

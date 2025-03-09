@@ -1,0 +1,6 @@
+2025/03/02-21:56:15.645 2101 Creating DB /home/nathnael/.config/google-chrome/Default/IndexedDB/https_free-apis.github.io_0.indexeddb.leveldb since it was missing.
+2025/03/02-21:56:15.649 2101 Reusing MANIFEST /home/nathnael/.config/google-chrome/Default/IndexedDB/https_free-apis.github.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/02-21:56:15.657 210e Level-0 table #5: started
+2025/03/02-21:56:15.660 210e Level-0 table #5: 781 bytes OK
+2025/03/02-21:56:15.662 210e Delete type=0 #3
+2025/03/02-21:56:15.662 2103 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

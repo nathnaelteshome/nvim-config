@@ -1,0 +1,710 @@
+{
+   "about_follow": {
+      "description": "",
+      "message": "Bizi Twitter`da takip edin"
+   },
+   "about_like": {
+      "description": "",
+      "message": "Bizi Facebook`ta beğenin"
+   },
+   "about_privacy": {
+      "description": "",
+      "message": "Gizlilik İlkesi"
+   },
+   "about_terms": {
+      "description": "",
+      "message": "Şart ve Koşullar"
+   },
+   "account_activated": {
+      "description": "",
+      "message": "Etkinleştirildi"
+   },
+   "account_key": {
+      "description": "",
+      "message": "Lisans anahtarı"
+   },
+   "account_na": {
+      "description": "",
+      "message": ""
+   },
+   "account_redeem": {
+      "description": "",
+      "message": "Lisans Kullan"
+   },
+   "account_switch": {
+      "description": "",
+      "message": "Hesap Değiştir"
+   },
+   "account_type": {
+      "description": "",
+      "message": "Hesap türü"
+   },
+   "account_upgrade": {
+      "description": "",
+      "message": "Premium`e Yükselt"
+   },
+   "account_username": {
+      "description": "",
+      "message": "Kullanıcı Adı"
+   },
+   "banner_create_account_btn": {
+      "description": "",
+      "message": ""
+   },
+   "banner_create_account_description": {
+      "description": "",
+      "message": ""
+   },
+   "banner_create_account_title": {
+      "description": "",
+      "message": ""
+   },
+   "banner_download_app_btn": {
+      "description": "",
+      "message": ""
+   },
+   "banner_download_app_description": {
+      "description": "",
+      "message": ""
+   },
+   "banner_download_app_title": {
+      "description": "",
+      "message": ""
+   },
+   "banner_premium_btn": {
+      "description": "",
+      "message": ""
+   },
+   "beta": {
+      "description": "",
+      "message": ""
+   },
+   "browser_settings_open": {
+      "description": "",
+      "message": "%BROWSER%`da aç"
+   },
+   "browser_settings_title": {
+      "description": "",
+      "message": "Tarayıcı ayarları"
+   },
+   "buy_elite": {
+      "description": "",
+      "message": "Hotspot Shield Premium`e Yükselt"
+   },
+   "bypass_add": {
+      "description": "",
+      "message": "Site Ekle"
+   },
+   "bypass_of": {
+      "description": "",
+      "message": "/"
+   },
+   "bypass_showing": {
+      "description": "",
+      "message": "Gösteriliyor"
+   },
+   "bypass_title": {
+      "description": "",
+      "message": "Atlanan web siteler"
+   },
+   "configuration_title": {
+      "description": "",
+      "message": ""
+   },
+   "connection_bandwidth": {
+      "description": "",
+      "message": "Bant genişliği"
+   },
+   "connection_button_connected": {
+      "description": "",
+      "message": "Bağlanıldı"
+   },
+   "connection_button_connecting": {
+      "description": "",
+      "message": "Bağlanılıyor..."
+   },
+   "connection_button_disconnected": {
+      "description": "",
+      "message": "Bağlanmak için tıklayın"
+   },
+   "connection_button_stop": {
+      "description": "",
+      "message": "Durdur"
+   },
+   "connection_speed": {
+      "description": "",
+      "message": "Hız"
+   },
+   "elite": {
+      "description": "",
+      "message": ""
+   },
+   "fill": {
+      "description": "",
+      "message": "Vurgulanmış alanları doldurun"
+   },
+   "help_contact": {
+      "description": "",
+      "message": "Bize Ulaşın"
+   },
+   "help_icon_1": {
+      "description": "",
+      "message": "Hotspot Shield koruması kapalı."
+   },
+   "help_icon_2": {
+      "description": "",
+      "message": "Hotspot Shield koruması açık."
+   },
+   "help_icon_3": {
+      "description": "",
+      "message": "Hotspot Shield bu etki alanını otomatik olarak koruyor."
+   },
+   "help_icon_4": {
+      "description": "",
+      "message": "Hotspot Shield bu etki alanını atlıyor."
+   },
+   "help_icon_title": {
+      "description": "",
+      "message": "Uzantı simgesi"
+   },
+   "help_manage": {
+      "description": "",
+      "message": "Hesabı ve Cihazları Yönet"
+   },
+   "help_open_button": {
+      "description": "",
+      "message": ""
+   },
+   "help_other": {
+      "description": "",
+      "message": "Diğer"
+   },
+   "help_payments": {
+      "description": "",
+      "message": "Ödemeler/Abonelik"
+   },
+   "help_support": {
+      "description": "",
+      "message": "Destek"
+   },
+   "help_tutorial": {
+      "description": "",
+      "message": "Öğretici"
+   },
+   "label_createpassword": {
+      "description": "",
+      "message": "Parolanızı girin"
+   },
+   "label_email": {
+      "description": "",
+      "message": "E-Posta Adresi"
+   },
+   "label_enterpassword": {
+      "description": "",
+      "message": "Parolanızı girin"
+   },
+   "loading_powered": {
+      "description": "",
+      "message": "Kaliforniya`da Geliştirildi"
+   },
+   "location_auto_title": {
+      "description": "",
+      "message": "Hotspot Shield, bağlantınız için en iyi sunucuyu otomatik olarak seçer."
+   },
+   "location_elite_only": {
+      "description": "",
+      "message": "Premium aboneleri için konum seçenekleri mevcuttur."
+   },
+   "location_optimal_title": {
+      "description": "",
+      "message": "Otomatik sunucu"
+   },
+   "location_show_all": {
+      "description": "",
+      "message": "Tümünü göster"
+   },
+   "location_show_less": {
+      "description": "",
+      "message": "Daha az göster"
+   },
+   "location_title": {
+      "description": "",
+      "message": "Sunucular"
+   },
+   "main_bypass_tooltip": {
+      "description": "",
+      "message": "Uygulama açıldığında Hotspot Shield güvenliğini atlamak istediğiniz web sitelerini ekleyin."
+   },
+   "main_secured_tooltip": {
+      "description": "",
+      "message": "Hotspot Shield kapatıldığında korunmasını istediğiniz web sitelerini ekleyin."
+   },
+   "map_optimal": {
+      "description": "",
+      "message": ""
+   },
+   "map_title": {
+      "description": "",
+      "message": "Şu ülkeden giriş yap"
+   },
+   "menu_about": {
+      "description": "",
+      "message": "Hotspot Shield Hakkında"
+   },
+   "menu_account": {
+      "description": "",
+      "message": "Hesabım"
+   },
+   "menu_chrome": {
+      "description": "",
+      "message": "%BROWSER% uzantısı"
+   },
+   "menu_help": {
+      "description": "",
+      "message": "Yardım"
+   },
+   "menu_rateus": {
+      "description": "",
+      "message": "Bizi derecelendirin"
+   },
+   "menu_settings": {
+      "description": "",
+      "message": "Ayarlar"
+   },
+   "menu_share": {
+      "description": "",
+      "message": "Bu uygulamayı paylaş"
+   },
+   "menu_upgrade": {
+      "description": "",
+      "message": "Premium`e Yükselt"
+   },
+   "modes_adblock": {
+      "description": "",
+      "message": "Engellenen reklamlar"
+   },
+   "modes_cookies": {
+      "description": "",
+      "message": "Çerez engelleyici"
+   },
+   "modes_install": {
+      "description": "",
+      "message": ""
+   },
+   "modes_malware": {
+      "description": "",
+      "message": "Malware engelleyici"
+   },
+   "modes_notifications": {
+      "description": "",
+      "message": "Bildirimler"
+   },
+   "modes_proxyLocal": {
+      "description": "",
+      "message": ""
+   },
+   "modes_sword": {
+      "description": "",
+      "message": ""
+   },
+   "modes_title": {
+      "description": "",
+      "message": "Bağlantı Modları"
+   },
+   "modes_tooltips_adBlock": {
+      "description": "",
+      "message": "Hotspot Shield oturumunuz sırasında %BROWSER% tarayıcısında reklam engelleme özelliğini etkinleştirin veya devre dışı bırakın."
+   },
+   "modes_tooltips_cookie": {
+      "description": "",
+      "message": "Hotspot Shield oturumunuz sırasında internet çerezlerini etkinleştirin veya devre dışı bırakın."
+   },
+   "modes_tooltips_malware": {
+      "description": "",
+      "message": "Hotspot Shield oturumunuz sırasında %BROWSER% tarayıcısında kötü amaçlı reklam yazılımı engelleyicisini etkinleştirin veya devre dışı bırakın."
+   },
+   "modes_tooltips_proxyLocal": {
+      "description": "",
+      "message": ""
+   },
+   "modes_tooltips_settings": {
+      "description": "",
+      "message": "Güvenli ve atlanan siteleri buradan ekleyin ve yönetin."
+   },
+   "modes_tooltips_sword": {
+      "description": "",
+      "message": ""
+   },
+   "modes_tooltips_tracker": {
+      "description": "",
+      "message": "Hotspot Shield oturumunuz sırasında Google gibi analitik izleyicileri etkinleştirin veya devre dışı bırakın."
+   },
+   "modes_tooltips_webRTC": {
+      "description": "",
+      "message": ""
+   },
+   "modes_tracker": {
+      "description": "",
+      "message": "Engellenen izleyiciler"
+   },
+   "modes_webRTC": {
+      "description": "",
+      "message": ""
+   },
+   "name": {
+      "description": "",
+      "message": "Hotspot Shield"
+   },
+   "password6": {
+      "description": "",
+      "message": "Parola 6 veya daha fazla karakterden oluşmalıdır"
+   },
+   "policy": {
+      "description": "",
+      "message": "Gizlilik İlkesi"
+   },
+   "powered": {
+      "description": "",
+      "message": "Aura ile desteklenmektedir"
+   },
+   "rate_us_rate_text": {
+      "description": "",
+      "message": "Bizi derecelendirmek için yıldızlara tıklayın"
+   },
+   "rate_us_rate_title": {
+      "description": "",
+      "message": ""
+   },
+   "rate_us_redirect_1": {
+      "description": "",
+      "message": "Harikasınız!\\nLütfen bir dakikanızı ayırıp %BROWSER% Web Mağazasında bize 5 yıldız verin."
+   },
+   "rate_us_redirect_2": {
+      "description": "",
+      "message": "Hemen yönlendirileceksiniz..."
+   },
+   "rate_us_thank_you": {
+      "description": "",
+      "message": "Teşekkürler!"
+   },
+   "reserved": {
+      "description": "",
+      "message": ""
+   },
+   "restore": {
+      "description": "",
+      "message": ""
+   },
+   "restore_forgot": {
+      "description": "",
+      "message": "Parolayı mı unuttunuz?"
+   },
+   "secured_websites_add": {
+      "description": "",
+      "message": "Site Ekle"
+   },
+   "secured_websites_of": {
+      "description": "",
+      "message": "/"
+   },
+   "secured_websites_showing": {
+      "description": "",
+      "message": "Gösteriliyor"
+   },
+   "secured_websites_title": {
+      "description": "",
+      "message": "Otomatik koruma"
+   },
+   "see_all": {
+      "description": "",
+      "message": "Tümünü gör"
+   },
+   "settings_add_description": {
+      "description": "",
+      "message": ""
+   },
+   "settings_add_eg": {
+      "description": "",
+      "message": ""
+   },
+   "settings_add_title": {
+      "description": "",
+      "message": "Bir web sitesi ekle"
+   },
+   "settings_language": {
+      "description": "",
+      "message": "Dil"
+   },
+   "settings_notifications": {
+      "description": "",
+      "message": "Bildirimler"
+   },
+   "sign_in": {
+      "description": "",
+      "message": "Oturum Aç"
+   },
+   "sign_up": {
+      "description": "",
+      "message": "Kaydol"
+   },
+   "signin_noaccount": {
+      "description": "",
+      "message": "Hesabınız yok mu?"
+   },
+   "signup_description": {
+      "description": "",
+      "message": "Kaydol`a tıklayarak Hotspot Shield`a ait şunları kabul etmiş olursunuz="
+   },
+   "signup_description_and": {
+      "description": "",
+      "message": "ve"
+   },
+   "signup_have_an_account": {
+      "description": "",
+      "message": "Zaten bir Hesabım var"
+   },
+   "statistic_ads": {
+      "description": "",
+      "message": "Reklamlar"
+   },
+   "statistic_cookies": {
+      "description": "",
+      "message": "Çerezler"
+   },
+   "statistic_malware": {
+      "description": "",
+      "message": "Malware"
+   },
+   "statistic_title": {
+      "description": "",
+      "message": "Engellenen tehditler"
+   },
+   "statistic_trackers": {
+      "description": "",
+      "message": "İzleyiciler"
+   },
+   "survey_button": {
+      "description": "",
+      "message": ""
+   },
+   "survey_description": {
+      "description": "",
+      "message": ""
+   },
+   "survey_title": {
+      "description": "",
+      "message": ""
+   },
+   "sword_add": {
+      "description": "",
+      "message": ""
+   },
+   "sword_title": {
+      "description": "",
+      "message": ""
+   },
+   "sword_tooltip": {
+      "description": "",
+      "message": ""
+   },
+   "terms_agree_by_using": {
+      "description": "",
+      "message": ""
+   },
+   "tooltip_done": {
+      "description": "",
+      "message": "Bitti"
+   },
+   "tooltip_next": {
+      "description": "",
+      "message": "İleri"
+   },
+   "tooltip_previous": {
+      "description": "",
+      "message": "Önceki"
+   },
+   "tooltip_text_1_1": {
+      "description": "",
+      "message": "Menü"
+   },
+   "tooltip_text_1_2": {
+      "description": "",
+      "message": "Yapılandırma"
+   },
+   "tooltip_text_1_3": {
+      "description": "",
+      "message": "Hotspot Shield`a bağlanmak için tıklayın"
+   },
+   "tooltip_text_2_1": {
+      "description": "",
+      "message": ""
+   },
+   "tooltip_text_2_2": {
+      "description": "",
+      "message": ""
+   },
+   "tooltip_text_2_3": {
+      "description": "",
+      "message": ""
+   },
+   "tooltip_text_2_4": {
+      "description": "",
+      "message": ""
+   },
+   "tooltip_text_2_5": {
+      "description": "",
+      "message": ""
+   },
+   "tooltip_text_2_6": {
+      "description": "",
+      "message": ""
+   },
+   "tooltip_text_3_1": {
+      "description": "",
+      "message": "Halihazırda bağlanılan sunucu"
+   },
+   "tooltip_text_3_2": {
+      "description": "",
+      "message": "Engeli kaldırılan site sayısı"
+   },
+   "tooltip_text_3_3": {
+      "description": "",
+      "message": "Bu sitelerde uzantıyı etkinleştirin"
+   },
+   "tooltip_text_3_4": {
+      "description": "",
+      "message": "Açıldığında uzantıyı atlayın"
+   },
+   "tooltip_text_4_1": {
+      "description": "",
+      "message": "İstediğiniz sanal konumu seçin"
+   },
+   "tooltip_text_4_2": {
+      "description": "",
+      "message": "Ziyaret ettiğiniz sitedeki reklamları engelleyin"
+   },
+   "tooltip_text_4_3": {
+      "description": "",
+      "message": "Çevrimiçi izlemeyi engelleyin"
+   },
+   "tooltip_text_4_4": {
+      "description": "",
+      "message": "Üçüncü taraf çerezleri engelleyin"
+   },
+   "tooltip_text_4_5": {
+      "description": "",
+      "message": "Güvenli/atlanan siteleri ekleyin ve yönetin"
+   },
+   "tooltip_title_1": {
+      "description": "",
+      "message": "Giriş sayfası"
+   },
+   "tooltip_title_2": {
+      "description": "",
+      "message": "Kontrol paneli"
+   },
+   "tooltip_title_3": {
+      "description": "",
+      "message": "Kontrol paneli"
+   },
+   "tooltip_title_4": {
+      "description": "",
+      "message": "Yapılandırma"
+   },
+   "tos": {
+      "description": "",
+      "message": "Şart ve Koşullar"
+   },
+   "trial_onetime": {
+      "description": "",
+      "message": "Tek Seferlik Teklif"
+   },
+   "trial_row_1": {
+      "description": "",
+      "message": "Çoklu cihaz desteği"
+   },
+   "trial_row_2": {
+      "description": "",
+      "message": "Premium sunucu konumları"
+   },
+   "trial_row_3": {
+      "description": "",
+      "message": "Sınırsız veri bant genişliği"
+   },
+   "trial_row_4": {
+      "description": "",
+      "message": "Özel müşteri desteği"
+   },
+   "trial_row_5": {
+      "description": "",
+      "message": "Reklamsız gezinme deneyimi"
+   },
+   "trial_thanks": {
+      "description": "",
+      "message": "Hayır, teşekkürler; ücretsiz sürümle devam et"
+   },
+   "trial_title": {
+      "description": "",
+      "message": "Hotspot Shield Premium ile daha fazlasına sahip olun"
+   },
+   "trial_upgrade": {
+      "description": "",
+      "message": ""
+   },
+   "unavaliable_description": {
+      "description": "",
+      "message": "Lütfen ara sunucu ayarlarınızı kontrol eden diğer uzantıları (reklam engelleme yazılımları, diğer VPN hizmetleri vb.) devre dışı bırakmak için düğmeye tıklayın."
+   },
+   "unavaliable_disable": {
+      "description": "",
+      "message": ""
+   },
+   "unavaliable_title": {
+      "description": "",
+      "message": "Hotspot Shield, ara sunucu ayarlarınızı kontrol eden başka bir %BROWSER% uzantısı tarafından engelleniyor."
+   },
+   "unblocked_title": {
+      "description": "",
+      "message": "Engeli kaldırılan siteler"
+   },
+   "version": {
+      "description": "",
+      "message": "Sürüm"
+   },
+   "wait": {
+      "description": "",
+      "message": "Lütfen bekleyin"
+   },
+   "welcome_row_1": {
+      "description": "",
+      "message": "Hotspot Shield Premium ile daha fazlasına sahip olun"
+   },
+   "welcome_row_2": {
+      "description": "",
+      "message": "Çoklu cihaz desteği"
+   },
+   "welcome_row_3": {
+      "description": "",
+      "message": "Premium sunucu konumları"
+   },
+   "welcome_row_4": {
+      "description": "",
+      "message": "Sınırsız veri bant genişliği"
+   },
+   "welcome_row_5": {
+      "description": "",
+      "message": "Özel müşteri desteği"
+   },
+   "welcome_row_6": {
+      "description": "",
+      "message": "Reklamsız gezinme deneyimi"
+   },
+   "welcome_row_7": {
+      "description": "",
+      "message": "Ya da Hotspot Shieldı şunlar için indirin"
+   },
+   "welcome_title": {
+      "description": "",
+      "message": "Hotspot Shield`ı yüklediğiniz için teşekkürler!"
+   }
+}

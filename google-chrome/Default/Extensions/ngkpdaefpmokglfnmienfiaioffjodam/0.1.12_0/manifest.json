@@ -1,0 +1,29 @@
+{
+   "action": {
+      "default_icon": "favicon-32x32.png",
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "background.bundle.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "inject.bundle.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "favicon-128x128.png",
+      "16": "favicon-16x16.png",
+      "32": "favicon-32x32.png",
+      "48": "favicon-48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvtyU1fWHhEGoQB+KfD5rlI1pOBeV3mmSjmygDwWvAEwQRUbL5IcYxmtvnRFMSa7+ssxOZJJCVnG4/VI+L9gMGb49ysmDkBJTYRqkCcDdNYFfR/r/8NL++0190vuTLJdNksiKm2yJcf1QnzWuR4QvfrA1DLa6lkHhqdb/bpMV1xBMzx3d6Laag8+gOPWSL4dD2O4zjKd2an37VQYJaBnWW32IvEe5P7PUsMQQeefi9lhY2EVjb5hYKNRSbsNZqg4dg/tgd7q4yvOFWi5tPYY1vSQQAne+0/6GZnQAxu7rcxWlQrp0q1Av9Nc25pNSer31JwDGPtae4rVG9vIimzzaYQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "permissions": [ "downloads" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.12"
+}

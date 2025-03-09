@@ -1,0 +1,6 @@
+2025/03/08-22:30:47.840 1135d Reusing MANIFEST /home/nathnael/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/03/08-22:30:47.841 1135d Recovering log #142
+2025/03/08-22:30:47.842 1135d Reusing old log /home/nathnael/.config/google-chrome/Default/Sync Data/LevelDB/000142.log 
+2025/03/08-23:35:48.211 1135f Level-0 table #147: started
+2025/03/08-23:35:48.223 1135f Level-0 table #147: 91104 bytes OK
+2025/03/08-23:35:48.226 1135f Delete type=0 #142

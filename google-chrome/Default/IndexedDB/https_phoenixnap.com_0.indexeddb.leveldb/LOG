@@ -1,0 +1,6 @@
+2025/02/27-16:25:38.632 19e7b Creating DB /home/nathnael/.config/google-chrome/Default/IndexedDB/https_phoenixnap.com_0.indexeddb.leveldb since it was missing.
+2025/02/27-16:25:38.636 19e7b Reusing MANIFEST /home/nathnael/.config/google-chrome/Default/IndexedDB/https_phoenixnap.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/27-16:25:41.300 19e7c Level-0 table #5: started
+2025/02/27-16:25:41.301 19e7c Level-0 table #5: 1274 bytes OK
+2025/02/27-16:25:41.303 19e7c Delete type=0 #3
+2025/02/27-16:25:41.303 19e7c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

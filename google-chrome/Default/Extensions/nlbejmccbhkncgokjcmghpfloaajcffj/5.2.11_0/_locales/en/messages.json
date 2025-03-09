@@ -1,0 +1,718 @@
+{
+   "about_follow": {
+      "description": "",
+      "message": "Follow us on Twitter"
+   },
+   "about_like": {
+      "description": "",
+      "message": "Like us on Facebook"
+   },
+   "about_privacy": {
+      "description": "",
+      "message": "Privacy policy"
+   },
+   "about_terms": {
+      "description": "",
+      "message": "Terms"
+   },
+   "account_activated": {
+      "description": "",
+      "message": "Activated"
+   },
+   "account_key": {
+      "description": "",
+      "message": "Licence key"
+   },
+   "account_na": {
+      "description": "",
+      "message": "Basic"
+   },
+   "account_redeem": {
+      "description": "",
+      "message": "Redeem license"
+   },
+   "account_switch": {
+      "description": "",
+      "message": "Switch account"
+   },
+   "account_type": {
+      "description": "",
+      "message": "Account type"
+   },
+   "account_upgrade": {
+      "description": "",
+      "message": "Upgrade to Premium"
+   },
+   "account_username": {
+      "description": "",
+      "message": "Username"
+   },
+   "banner_create_account_btn": {
+      "description": "",
+      "message": "Create account"
+   },
+   "banner_create_account_description": {
+      "description": "",
+      "message": "Creating a secure Hotspot Shield account will earn you another 250 MB of free daily data"
+   },
+   "banner_create_account_title": {
+      "description": "",
+      "message": "Create account to increase your daily data limit to 500 MB"
+   },
+   "banner_download_app_btn": {
+      "description": "",
+      "message": "Instal Hotspot Shield"
+   },
+   "banner_download_app_description": {
+      "description": "",
+      "message": "With the daily limit of 500 MB in the Chrome extension and 500 MB more in the desktop app you will have 1 GB total"
+   },
+   "banner_download_app_title": {
+      "description": "",
+      "message": "Install the app and increase combined daily data to 1 GB"
+   },
+   "banner_premium_btn": {
+      "description": "",
+      "message": "Go unlimited with Premium"
+   },
+   "beta": {
+      "description": "",
+      "message": "BETA"
+   },
+   "browser_settings_open": {
+      "description": "",
+      "message": "Open in %BROWSER%"
+   },
+   "browser_settings_title": {
+      "description": "",
+      "message": "Browser settings"
+   },
+   "buy_elite": {
+      "description": "",
+      "message": "Upgrade to Hotspot Shield Premium"
+   },
+   "bypass_add": {
+      "description": "",
+      "message": "Add site"
+   },
+   "bypass_of": {
+      "description": "",
+      "message": "of"
+   },
+   "bypass_showing": {
+      "description": "",
+      "message": "Showing"
+   },
+   "bypass_title": {
+      "description": "",
+      "message": "Bypass websites"
+   },
+   "configuration_title": {
+      "description": "",
+      "message": "Configuration"
+   },
+   "connection_bandwidth": {
+      "description": "",
+      "message": "Bandwidth"
+   },
+   "connection_button_connected": {
+      "description": "",
+      "message": "Connected"
+   },
+   "connection_button_connecting": {
+      "description": "",
+      "message": "Connecting..."
+   },
+   "connection_button_disconnected": {
+      "description": "",
+      "message": "Click to connect"
+   },
+   "connection_button_stop": {
+      "description": "",
+      "message": "Stop"
+   },
+   "connection_speed": {
+      "description": "",
+      "message": "Speed"
+   },
+   "description": {
+      "description": "",
+      "message": "Hotspot Shield VPN"
+   },
+   "elite": {
+      "description": "",
+      "message": "Premium"
+   },
+   "fill": {
+      "description": "",
+      "message": "Fill highlighted fields"
+   },
+   "help_contact": {
+      "description": "",
+      "message": "Contact us"
+   },
+   "help_icon_1": {
+      "description": "",
+      "message": "Hotspot Shield protection is off."
+   },
+   "help_icon_2": {
+      "description": "",
+      "message": "Hotspot Shield protection is on."
+   },
+   "help_icon_3": {
+      "description": "",
+      "message": "Hotspot Shield is automatically securing this domain."
+   },
+   "help_icon_4": {
+      "description": "",
+      "message": "Hotspot Shield is bypassing this domain."
+   },
+   "help_icon_title": {
+      "description": "",
+      "message": "Extension icon"
+   },
+   "help_manage": {
+      "description": "",
+      "message": "Manage account & devices"
+   },
+   "help_open_button": {
+      "description": "",
+      "message": "Open"
+   },
+   "help_other": {
+      "description": "",
+      "message": "Other"
+   },
+   "help_payments": {
+      "description": "",
+      "message": "Payments/Subscription"
+   },
+   "help_support": {
+      "description": "",
+      "message": "Support"
+   },
+   "help_tutorial": {
+      "description": "",
+      "message": "Tutorial"
+   },
+   "label_createpassword": {
+      "description": "",
+      "message": "Enter password"
+   },
+   "label_email": {
+      "description": "",
+      "message": "Email address"
+   },
+   "label_enterpassword": {
+      "description": "",
+      "message": "Enter password"
+   },
+   "loading_powered": {
+      "description": "",
+      "message": "Made in California"
+   },
+   "location_auto_title": {
+      "description": "",
+      "message": "Hotspot Shield auto selects the best server for your connection."
+   },
+   "location_elite_only": {
+      "description": "",
+      "message": "Location avaliable for premium subscribers."
+   },
+   "location_optimal_title": {
+      "description": "",
+      "message": "Auto server"
+   },
+   "location_show_all": {
+      "description": "",
+      "message": "Show all"
+   },
+   "location_show_less": {
+      "description": "",
+      "message": "Show less"
+   },
+   "location_title": {
+      "description": "",
+      "message": "Servers"
+   },
+   "main_bypass_tooltip": {
+      "description": "",
+      "message": "Add websites which you want to bypass Hotspot Shield security when the product is turned on."
+   },
+   "main_secured_tooltip": {
+      "description": "",
+      "message": "Add websites which you want to secure when Hotspot Shield is turned off."
+   },
+   "map_optimal": {
+      "description": "",
+      "message": "Auto server"
+   },
+   "map_title": {
+      "description": "",
+      "message": "Connected to="
+   },
+   "menu_about": {
+      "description": "",
+      "message": "About Hotspot Shield"
+   },
+   "menu_account": {
+      "description": "",
+      "message": "My account"
+   },
+   "menu_chrome": {
+      "description": "",
+      "message": "%BROWSER% extension"
+   },
+   "menu_help": {
+      "description": "",
+      "message": "Help"
+   },
+   "menu_rateus": {
+      "description": "",
+      "message": "Rate us"
+   },
+   "menu_settings": {
+      "description": "",
+      "message": "Settings"
+   },
+   "menu_share": {
+      "description": "",
+      "message": "Share this app"
+   },
+   "menu_upgrade": {
+      "description": "",
+      "message": "Upgrade to Premium"
+   },
+   "modes_adblock": {
+      "description": "",
+      "message": "Ad blocker"
+   },
+   "modes_cookies": {
+      "description": "",
+      "message": "Cookie blocker"
+   },
+   "modes_install": {
+      "description": "",
+      "message": "Install"
+   },
+   "modes_malware": {
+      "description": "",
+      "message": "Malware blocker"
+   },
+   "modes_notifications": {
+      "description": "",
+      "message": "Notifications"
+   },
+   "modes_proxyLocal": {
+      "description": "",
+      "message": "Bypass local network"
+   },
+   "modes_sword": {
+      "description": "",
+      "message": "Sword"
+   },
+   "modes_title": {
+      "description": "",
+      "message": "Connection modes"
+   },
+   "modes_tooltips_adBlock": {
+      "description": "",
+      "message": "Enable or disable ad blocking in %BROWSER% browser during your Hotspot Shield session."
+   },
+   "modes_tooltips_cookie": {
+      "description": "",
+      "message": "Enable or disable web cookies during your Hotspot Shield session."
+   },
+   "modes_tooltips_malware": {
+      "description": "",
+      "message": "Enable or disable ad malware blocker in %BROWSER% browser during your Hotspot Shield session."
+   },
+   "modes_tooltips_proxyLocal": {
+      "description": "",
+      "message": "Bypass local resources. Such as web sites located in internal network localhost etc."
+   },
+   "modes_tooltips_settings": {
+      "description": "",
+      "message": "Add and manage your secure and bypass sites here."
+   },
+   "modes_tooltips_sword": {
+      "description": "",
+      "message": "Feed web trackers fake web activity to keep your real web activity private."
+   },
+   "modes_tooltips_tracker": {
+      "description": "",
+      "message": "Enable or disable analytic trackers (such as Google) during your Hotspot Shield session."
+   },
+   "modes_tooltips_webRTC": {
+      "description": "",
+      "message": "WebRTC discovers IPs via the Interactive Connectivity Establishment (ICE) protocol. Enable this feature to prevent that."
+   },
+   "modes_tracker": {
+      "description": "",
+      "message": "Tracker blocker"
+   },
+   "modes_webRTC": {
+      "description": "",
+      "message": "WebRTC blocker"
+   },
+   "name": {
+      "description": "",
+      "message": "Hotspot Shield"
+   },
+   "password6": {
+      "description": "",
+      "message": "Password must be 6+ characters"
+   },
+   "policy": {
+      "description": "",
+      "message": "Privacy policy"
+   },
+   "powered": {
+      "description": "",
+      "message": "Powered by Aura"
+   },
+   "rate_us_rate_text": {
+      "description": "",
+      "message": "Click the stars to rate us"
+   },
+   "rate_us_rate_title": {
+      "description": "",
+      "message": "Love Hotspot Shield?"
+   },
+   "rate_us_redirect_1": {
+      "description": "",
+      "message": "You are Awesome!\\nPlease take a moment to give Us 5 star rating on %BROWSER% Web Store."
+   },
+   "rate_us_redirect_2": {
+      "description": "",
+      "message": "In a moment you will be redirected..."
+   },
+   "rate_us_thank_you": {
+      "description": "",
+      "message": "Thank you!"
+   },
+   "reserved": {
+      "description": "",
+      "message": "© 2021 Aura Inc. Aura GmbH —"
+   },
+   "restore": {
+      "description": "",
+      "message": "Send password"
+   },
+   "restore_forgot": {
+      "description": "",
+      "message": "Forgot password?"
+   },
+   "secured_websites_add": {
+      "description": "",
+      "message": "Add site"
+   },
+   "secured_websites_of": {
+      "description": "",
+      "message": "of"
+   },
+   "secured_websites_showing": {
+      "description": "",
+      "message": "Showing"
+   },
+   "secured_websites_title": {
+      "description": "",
+      "message": "Auto protection"
+   },
+   "see_all": {
+      "description": "",
+      "message": "See all"
+   },
+   "settings_add_description": {
+      "description": "",
+      "message": "URL"
+   },
+   "settings_add_eg": {
+      "description": "",
+      "message": "E.g. www.facebook.com"
+   },
+   "settings_add_title": {
+      "description": "",
+      "message": "Add a website"
+   },
+   "settings_language": {
+      "description": "",
+      "message": "Language"
+   },
+   "settings_notifications": {
+      "description": "",
+      "message": "Notifications"
+   },
+   "shortName": {
+      "description": "",
+      "message": "Hotspot Shield"
+   },
+   "sign_in": {
+      "description": "",
+      "message": "Sign in"
+   },
+   "sign_up": {
+      "description": "",
+      "message": "Sign up"
+   },
+   "signin_noaccount": {
+      "description": "",
+      "message": "Don`t have an account?"
+   },
+   "signup_description": {
+      "description": "",
+      "message": "By clicking sign up you agree to the Hotspot Shield’s"
+   },
+   "signup_description_and": {
+      "description": "",
+      "message": "and"
+   },
+   "signup_have_an_account": {
+      "description": "",
+      "message": "Already have an account"
+   },
+   "statistic_ads": {
+      "description": "",
+      "message": "Ads"
+   },
+   "statistic_cookies": {
+      "description": "",
+      "message": "Cookies"
+   },
+   "statistic_malware": {
+      "description": "",
+      "message": "Malware"
+   },
+   "statistic_title": {
+      "description": "",
+      "message": "Blocked threats"
+   },
+   "statistic_trackers": {
+      "description": "",
+      "message": "Trackers"
+   },
+   "survey_button": {
+      "description": "",
+      "message": "Begin survey"
+   },
+   "survey_description": {
+      "description": "",
+      "message": "It will only take about two minutes to complete"
+   },
+   "survey_title": {
+      "description": "",
+      "message": "Take a survey to improve Hotspot Shield"
+   },
+   "sword_add": {
+      "description": "",
+      "message": "Add site"
+   },
+   "sword_title": {
+      "description": "",
+      "message": "Sword"
+   },
+   "sword_tooltip": {
+      "description": "",
+      "message": "Feed web trackers fake web activity to keep your real web activity private. Many websites have multiple 3rd party resources to track you. Sword confuses these trackers by spoofing what you are browsing allowing you to stay anonymous."
+   },
+   "terms_agree_by_using": {
+      "description": "",
+      "message": "By using this extension you agree to our \u003C0/> \u003C1>Terms\u003C/1> and \u003C2>Privacy policy\u003C/2>."
+   },
+   "tooltip_done": {
+      "description": "",
+      "message": "Done"
+   },
+   "tooltip_next": {
+      "description": "",
+      "message": "Next"
+   },
+   "tooltip_previous": {
+      "description": "",
+      "message": "Previous"
+   },
+   "tooltip_text_1_1": {
+      "description": "",
+      "message": "Menu options"
+   },
+   "tooltip_text_1_2": {
+      "description": "",
+      "message": "Configuration settings"
+   },
+   "tooltip_text_1_3": {
+      "description": "",
+      "message": "Click to connect to Hotspot Shield"
+   },
+   "tooltip_text_2_1": {
+      "description": "",
+      "message": "Current session duration counter"
+   },
+   "tooltip_text_2_2": {
+      "description": "",
+      "message": "Click to stop the connection"
+   },
+   "tooltip_text_2_3": {
+      "description": "",
+      "message": "Consumed data over past 24 hours"
+   },
+   "tooltip_text_2_4": {
+      "description": "",
+      "message": "Speed to currently connected server"
+   },
+   "tooltip_text_2_5": {
+      "description": "",
+      "message": "Blocked threats during the session"
+   },
+   "tooltip_text_2_6": {
+      "description": "",
+      "message": "Select virtual location to connect to"
+   },
+   "tooltip_text_3_1": {
+      "description": "",
+      "message": "Currently connected server"
+   },
+   "tooltip_text_3_2": {
+      "description": "",
+      "message": "Number of unblocked sites"
+   },
+   "tooltip_text_3_3": {
+      "description": "",
+      "message": "Turn on extension on these sites"
+   },
+   "tooltip_text_3_4": {
+      "description": "",
+      "message": "Bypass extension when it’s on"
+   },
+   "tooltip_text_4_1": {
+      "description": "",
+      "message": "Select your preferred virtual location"
+   },
+   "tooltip_text_4_2": {
+      "description": "",
+      "message": "Block ads on sites you visit"
+   },
+   "tooltip_text_4_3": {
+      "description": "",
+      "message": "Prevent online tracking"
+   },
+   "tooltip_text_4_4": {
+      "description": "",
+      "message": "Block 3rd party cookies"
+   },
+   "tooltip_text_4_5": {
+      "description": "",
+      "message": "Add & manage secure/bypass sites"
+   },
+   "tooltip_title_1": {
+      "description": "",
+      "message": "Homepage"
+   },
+   "tooltip_title_2": {
+      "description": "",
+      "message": "Dashboard"
+   },
+   "tooltip_title_3": {
+      "description": "",
+      "message": "Dashboard"
+   },
+   "tooltip_title_4": {
+      "description": "",
+      "message": "Configuration settings"
+   },
+   "tos": {
+      "description": "",
+      "message": "Terms & conditions"
+   },
+   "trial_onetime": {
+      "description": "",
+      "message": "One-Time Offer"
+   },
+   "trial_row_1": {
+      "description": "",
+      "message": "Multi-device support"
+   },
+   "trial_row_2": {
+      "description": "",
+      "message": "Premium server locations"
+   },
+   "trial_row_3": {
+      "description": "",
+      "message": "Unlimited data bandwidth"
+   },
+   "trial_row_4": {
+      "description": "",
+      "message": "Dedicated customer support"
+   },
+   "trial_row_5": {
+      "description": "",
+      "message": "Ad-free browsing experience"
+   },
+   "trial_thanks": {
+      "description": "",
+      "message": "No thanks continue as free"
+   },
+   "trial_title": {
+      "description": "",
+      "message": "Get more with Hotspot Shield Premium"
+   },
+   "trial_upgrade": {
+      "description": "",
+      "message": "Start my free trial"
+   },
+   "unavaliable_description": {
+      "description": "",
+      "message": "Hotspot Shield is being interrupted by another %BROWSER% extension that is controlling your proxy settings."
+   },
+   "unavaliable_disable": {
+      "description": "",
+      "message": "Disable other extension."
+   },
+   "unavaliable_title": {
+      "description": "",
+      "message": "Service interruption"
+   },
+   "unblocked_title": {
+      "description": "",
+      "message": "Sites unblocked="
+   },
+   "version": {
+      "description": "",
+      "message": "Version"
+   },
+   "wait": {
+      "description": "",
+      "message": "Please wait"
+   },
+   "welcome_row_1": {
+      "description": "",
+      "message": "Get more with Hotspot Shield Premium"
+   },
+   "welcome_row_2": {
+      "description": "",
+      "message": "Multi-device support"
+   },
+   "welcome_row_3": {
+      "description": "",
+      "message": "Premium server locations"
+   },
+   "welcome_row_4": {
+      "description": "",
+      "message": "Unlimited data bandwidth"
+   },
+   "welcome_row_5": {
+      "description": "",
+      "message": "Dedicated customer support"
+   },
+   "welcome_row_6": {
+      "description": "",
+      "message": "Ad-free browsing experience"
+   },
+   "welcome_row_7": {
+      "description": "",
+      "message": "or download Hotspot Shield for"
+   },
+   "welcome_title": {
+      "description": "",
+      "message": "Thank you for installing Hotspot Shield!"
+   }
+}

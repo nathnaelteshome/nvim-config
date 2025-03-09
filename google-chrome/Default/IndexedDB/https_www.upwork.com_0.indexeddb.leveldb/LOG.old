@@ -1,0 +1,7 @@
+2025/03/08-21:00:24.689 63dd Reusing MANIFEST /home/nathnael/.config/google-chrome/Default/IndexedDB/https_www.upwork.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/08-21:00:24.689 63dd Recovering log #86
+2025/03/08-21:00:24.690 63dd Reusing old log /home/nathnael/.config/google-chrome/Default/IndexedDB/https_www.upwork.com_0.indexeddb.leveldb/000086.log 
+2025/03/08-21:00:26.221 632b Level-0 table #92: started
+2025/03/08-21:00:26.225 632b Level-0 table #92: 515 bytes OK
+2025/03/08-21:00:26.228 632b Delete type=0 #86
+2025/03/08-21:00:26.228 632b Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)

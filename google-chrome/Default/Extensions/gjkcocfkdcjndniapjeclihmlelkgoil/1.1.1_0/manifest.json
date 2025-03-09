@@ -1,0 +1,37 @@
+{
+   "action": {
+      "default_icon": "icons/icon_128.png",
+      "default_popup": "index.html",
+      "default_title": "A2SV Companion"
+   },
+   "background": {
+      "service_worker": "services.js"
+   },
+   "content_scripts": [ {
+      "js": [ "leetcode.content.js" ],
+      "matches": [ "https://leetcode.com/problems/*" ],
+      "run_at": "document_idle"
+   }, {
+      "js": [ "codeforces.content.js" ],
+      "matches": [ "https://codeforces.com/*", "https://codeforces.com/problemset/status*", "https://codeforces.com/contest/*/my", "https://codeforces.com/contest/*/status", "https://codeforces.com/submissions/*" ],
+      "run_at": "document_idle"
+   }, {
+      "js": [ "a2svhub.content.js" ],
+      "matches": [ "https://hub.a2sv.org/*" ],
+      "run_at": "document_idle"
+   } ],
+   "description": "A2SV Companion Browser Extension",
+   "host_permissions": [ "https://leetcode.com/*", "https://codeforces.com/*", "https://hub.a2sv.org/*" ],
+   "icons": {
+      "128": "icons/icon_128.png",
+      "16": "icons/icon_16.png",
+      "32": "icons/icon_32.png",
+      "48": "icons/icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqgr31XcCtKRlnQFv56Gh4YsNMlJig/Dr5K7H/Vs24WBwA51Kf1far2BD9nuF603PO0enB7WvLRLRC6a4W1ztK99HsR6b0SMYl/v0iWFQus/LFbSqI3I4fgtCWI6JOa/vLtsX+G2gCU6fczPqMHGQYpd9gMJyXQAxs9Nl+6IgMQqgfz5qjDXVdIXdwhQmhNzzCqGRcOkkjSUXy1b6o2mcfi5H7UKyVAV4vf5s9ImKOA8rgRP+GSw29FYogMx2yLqzHnz/cfhX8C2qK6um/RgZiJS0aCP66XgvrQNeGbcDqC877ULOcWv6+F3hniEVz4nxTBolv/EGhn+a8nL8dXscNwIDAQAB",
+   "manifest_version": 3,
+   "name": "A2SV Companion",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.1"
+}
