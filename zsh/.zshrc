@@ -55,21 +55,21 @@ export FZF_ALT_C_COMMAND="fd --type=d --hidden --strip-cwd-prefix --exclude .git
 
 #jossy setup
 
-# history setup
-HISTFILE=$HOME/.zhistory
-SAVEHIST=1000
-HISTSIZE=999
-setopt share_history
-setopt hist_expire_dups_first
-setopt hist_ignore_dups
-setopt hist_verify
+# # history setup
+# HISTFILE=$HOME/.zhistory
+# SAVEHIST=1000
+# HISTSIZE=999
+# setopt share_history
+# setopt hist_expire_dups_first
+# setopt hist_ignore_dups
+# setopt hist_verify
 
 # completion using arrow keys (based on history)
 bindkey '^[[A' history-search-backward
 bindkey '^[[B' history-search-forward
 
 # ---- Eza (better ls) -----
-alias ls="eza --color=always --git --no-filesize --icons=always --no-time --no-user --no-permissions -x"
+alias ls="eza --color=always --git --no-filesize --icons=always --no-time --no-user --no-permissions"
 
 # --- setup fzf theme ---
 fg="#CBE0F0"
@@ -117,6 +117,10 @@ bindkey -e
 bindkey '^k' history-search-backward
 bindkey '^j' history-search-forward
 bindkey '^[w' kill-region
+#configureation to alacrity to work with ctrl arrow and ctrl and del and backaspace
+bindkey '\e[3;5~' kill-word
+bindkey '\e[1;5C' forward-word
+bindkey '\e[1;5D' backward-word
 #
 #History
 HISTSIZE=5000

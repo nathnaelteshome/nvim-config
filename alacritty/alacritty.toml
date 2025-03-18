@@ -1,12 +1,10 @@
-general.import = [
-    "~/.config/alacritty/themes/themes/night_owl.toml"
-]
+general.import = ["~/.config/alacritty/themes/themes/night_owl.toml"]
 
 [env]
 TERM = "xterm-256color"
 
 [window]
-  padding.x = 3
+padding.x = 3
 
 decorations = "Buttonless"
 
@@ -31,4 +29,27 @@ style = "Italic"
 
 [font.normal]
 family = "GeistMono Nerd Font Mono"
-style = "Regular" 
+style = "Regular"
+
+# jossy config for ctrl
+[[keyboard.bindings]]
+key = "Backspace"
+mods = "Control"
+chars = "\u0017"
+
+
+[[keyboard.bindings]]
+key = "Delete"
+mods = "Control"
+chars = "\u001b[3;5~"
+
+
+[[keyboard.bindings]]
+key = "Right"
+mods = "Control"
+chars = "\u001b[1;5C"
+
+[[keyboard.bindings]]
+key = "Left"
+mods = "Control"
+chars = "\u001b[1;5D"
