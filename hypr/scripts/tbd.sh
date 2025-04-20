@@ -1,0 +1,13 @@
+#!/bin/sh
+
+while true; do
+  battery=$(upower -i "$(upower -e | grep BAT)" | grep -E "percentage" | awk '{print $2}' | tr -d '%')
+  if [ "$battery" -le "21" ]; then
+    hyprctl notify 0 5000 0 "  Low battery: ${battery}%"
+    sleep 240
+  else
+    hyprctl notify-send "Welcome back!"
+
+    # sleep 120
+  fi
+done
