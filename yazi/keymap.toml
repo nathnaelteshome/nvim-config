@@ -68,7 +68,7 @@ keymap = [
   { on = "o", run = "open", desc = "Open selected files" },
   { on = "O", run = "open --interactive", desc = "Open selected files interactively" },
   { on = "<Enter>", run = "open", desc = "Open selected files" },
-  { on = "<S-Enter>", run = "open --interactive", desc = "Open selected files interactively" },
+  { on = "<C-Enter>", run = "shell --block nautilus $@", desc = "Open in Nautilus" },
   { on = "y", run = "yank", desc = "Yank selected files (copy)" },
   { on = "x", run = "yank --cut", desc = "Yank selected files (cut)" },
   { on = "p", run = "paste", desc = "Paste yanked files" },

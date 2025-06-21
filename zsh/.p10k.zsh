@@ -50,12 +50,12 @@
   typeset -g POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(
     # =========================[ Line #1 ]=========================
     # context                 # user@host
+    virtualenv                # python virtual environment
     dir                       # current directory
     vcs                       # git status
     # command_execution_time  # previous command duration
     # =========================[ Line #2 ]=========================
     newline                   # \n
-    # virtualenv              # python virtual environment
     prompt_char               # prompt symbol
   )
 
@@ -94,11 +94,15 @@
   # Prompt symbol in overwrite vi mode is the same as in command mode.
   typeset -g POWERLEVEL9K_PROMPT_CHAR_OVERWRITE_STATE=false
 
-  # Grey Python Virtual Environment.
-  typeset -g POWERLEVEL9K_VIRTUALENV_FOREGROUND=$grey
+  # Cyan Python Virtual Environment.
+  typeset -g POWERLEVEL9K_VIRTUALENV_FOREGROUND=$cyan
   # Don't show Python version.
   typeset -g POWERLEVEL9K_VIRTUALENV_SHOW_PYTHON_VERSION=false
   typeset -g POWERLEVEL9K_VIRTUALENV_{LEFT,RIGHT}_DELIMITER=
+  # Show virtualenv even if it matches the current directory name
+  typeset -g POWERLEVEL9K_VIRTUALENV_SHOW_WITH_PYENV=true
+  # Always show virtualenv when active
+  typeset -g POWERLEVEL9K_VIRTUALENV_SHOW_ON_COMMAND=""
 
   # Blue current directory.
   typeset -g POWERLEVEL9K_DIR_FOREGROUND=$blue
